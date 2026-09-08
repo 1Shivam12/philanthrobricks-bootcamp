@@ -1,0 +1,3001 @@
+distribution_id,distribution_date,site,households_served,meals_served
+0,2025-05-09,North Hub,60,240
+1,2025-02-14,Mobile Unit,29,58
+2,2025-01-28,Mobile Unit,71,142
+3,2025-02-23,Riverside Centre,55,110
+4,2025-07-15,Riverside Centre,30,60
+5,2025-03-04,Mobile Unit,72,144
+6,2025-03-31,East Community Hall,46,184
+7,2025-02-10,North Hub,47,141
+8,2025-01-02,Mobile Unit,75,150
+9,2025-02-26,East Community Hall,69,276
+10,2025-09-01,Mobile Unit,82,164
+11,2025-02-08,North Hub,23,92
+12,2025-07-09,Riverside Centre,50,100
+13,2025-02-17,Riverside Centre,17,34
+14,2025-01-05,North Hub,21,84
+15,2025-05-28,Riverside Centre,30,60
+16,2025-05-01,Mobile Unit,14,56
+17,2025-07-15,Riverside Centre,10,30
+18,2025-04-26,Mobile Unit,38,114
+19,2025-08-12,Riverside Centre,68,272
+20,2025-01-13,North Hub,77,308
+21,2025-05-09,North Hub,14,70
+22,2025-08-25,East Community Hall,19,95
+23,2025-08-28,Riverside Centre,23,92
+24,2025-05-14,North Hub,13,26
+25,2025-06-01,North Hub,70,140
+26,2025-08-31,Mobile Unit,22,44
+27,2025-07-14,East Community Hall,62,310
+28,2025-06-02,North Hub,66,198
+29,2025-01-13,Mobile Unit,55,165
+30,2025-03-14,East Community Hall,40,120
+31,2025-08-20,Riverside Centre,49,147
+32,2025-07-06,North Hub,12,48
+33,2025-07-03,Riverside Centre,18,36
+34,2025-07-25,North Hub,27,81
+35,2025-04-26,North Hub,87,261
+36,2025-08-16,Mobile Unit,43,172
+37,2025-02-14,Riverside Centre,78,312
+38,2025-07-08,East Community Hall,55,110
+39,2025-05-08,Mobile Unit,83,332
+40,2025-03-29,Riverside Centre,22,110
+41,2025-03-18,East Community Hall,42,84
+42,2025-07-11,Riverside Centre,43,86
+43,2025-07-29,North Hub,71,213
+44,2025-07-30,Mobile Unit,22,66
+45,2025-09-06,Mobile Unit,25,50
+46,2025-08-08,North Hub,49,147
+47,2025-08-18,Mobile Unit,32,64
+48,2025-06-19,North Hub,50,250
+49,2025-04-27,North Hub,12,36
+50,2025-06-08,Mobile Unit,65,325
+51,2025-01-21,Mobile Unit,17,85
+52,2025-06-11,East Community Hall,82,328
+53,2025-07-02,North Hub,43,86
+54,2025-09-01,Mobile Unit,66,264
+55,2025-08-26,Mobile Unit,32,64
+56,2025-01-07,Riverside Centre,34,68
+57,2025-03-24,Mobile Unit,30,120
+58,2025-02-19,North Hub,61,305
+59,2025-02-08,North Hub,22,66
+60,2025-05-14,North Hub,17,51
+61,2025-07-11,Mobile Unit,34,170
+62,2025-05-01,East Community Hall,65,130
+63,2025-01-18,East Community Hall,60,180
+64,2025-04-20,North Hub,44,176
+65,2025-05-07,East Community Hall,75,375
+66,2025-05-16,North Hub,35,105
+67,2025-01-12,Mobile Unit,51,153
+68,2025-04-10,Mobile Unit,85,340
+69,2025-05-14,East Community Hall,42,84
+70,2025-06-13,East Community Hall,68,272
+71,2025-03-31,Mobile Unit,20,60
+72,2025-05-07,Mobile Unit,89,445
+73,2025-07-24,East Community Hall,85,170
+74,2025-03-13,Mobile Unit,29,116
+75,2025-07-07,Riverside Centre,17,51
+76,2025-07-31,East Community Hall,22,44
+77,2025-04-11,North Hub,24,96
+78,2025-03-04,Riverside Centre,35,105
+79,2025-08-24,East Community Hall,86,172
+80,2025-05-26,Riverside Centre,35,70
+81,2025-05-15,Riverside Centre,47,188
+82,2025-05-26,Mobile Unit,74,296
+83,2025-05-29,Mobile Unit,73,146
+84,2025-04-18,North Hub,31,62
+85,2025-08-07,East Community Hall,89,445
+86,2025-05-27,East Community Hall,42,84
+87,2025-05-06,Riverside Centre,37,111
+88,2025-08-30,Mobile Unit,24,96
+89,2025-02-10,North Hub,70,280
+90,2025-05-06,Mobile Unit,18,90
+91,2025-03-16,East Community Hall,55,275
+92,2025-03-02,Riverside Centre,88,176
+93,2025-04-29,Riverside Centre,59,295
+94,2025-04-05,Riverside Centre,45,225
+95,2025-06-27,Mobile Unit,15,30
+96,2025-02-22,Riverside Centre,62,310
+97,2025-08-05,East Community Hall,48,240
+98,2025-05-21,Riverside Centre,33,165
+99,2025-08-12,Riverside Centre,41,205
+100,2025-01-31,Mobile Unit,53,212
+101,2025-07-10,North Hub,58,174
+102,2025-02-21,East Community Hall,81,405
+103,2025-06-16,North Hub,64,192
+104,2025-01-25,Mobile Unit,69,276
+105,2025-02-28,Riverside Centre,28,84
+106,2025-03-26,East Community Hall,47,235
+107,2025-05-30,Mobile Unit,86,430
+108,2025-09-03,North Hub,36,108
+109,2025-04-04,East Community Hall,19,57
+110,2025-01-18,North Hub,83,249
+111,2025-08-11,Riverside Centre,88,440
+112,2025-07-18,Riverside Centre,18,72
+113,2025-06-21,Riverside Centre,27,108
+114,2025-06-19,Mobile Unit,30,150
+115,2025-01-27,North Hub,56,280
+116,2025-03-08,East Community Hall,49,245
+117,2025-05-12,Mobile Unit,86,344
+118,2025-03-05,East Community Hall,46,230
+119,2025-01-01,Riverside Centre,83,415
+120,2025-04-05,Mobile Unit,55,275
+121,2025-05-19,North Hub,45,135
+122,2025-05-25,East Community Hall,10,40
+123,2025-04-30,Riverside Centre,59,295
+124,2025-03-07,East Community Hall,74,370
+125,2025-02-23,East Community Hall,33,99
+126,2025-08-19,North Hub,76,380
+127,2025-01-27,North Hub,27,108
+128,2025-07-28,North Hub,50,250
+129,2025-07-05,North Hub,19,95
+130,2025-08-07,North Hub,33,132
+131,2025-08-22,Mobile Unit,73,219
+132,2025-01-30,East Community Hall,76,228
+133,2025-01-12,North Hub,24,48
+134,2025-01-12,East Community Hall,46,138
+135,2025-09-06,North Hub,57,171
+136,2025-08-01,Mobile Unit,68,272
+137,2025-02-09,Riverside Centre,86,430
+138,2025-04-16,Riverside Centre,47,188
+139,2025-01-21,East Community Hall,77,385
+140,2025-04-09,North Hub,51,153
+141,2025-03-03,East Community Hall,66,198
+142,2025-01-17,Riverside Centre,36,108
+143,2025-09-04,Mobile Unit,33,165
+144,2025-08-02,Mobile Unit,13,39
+145,2025-04-11,North Hub,63,189
+146,2025-01-02,Mobile Unit,86,258
+147,2025-07-06,Riverside Centre,14,70
+148,2025-02-12,East Community Hall,34,68
+149,2025-02-17,Riverside Centre,42,168
+150,2025-01-24,Riverside Centre,84,168
+151,2025-05-25,North Hub,83,332
+152,2025-07-27,East Community Hall,67,268
+153,2025-06-25,Riverside Centre,27,108
+154,2025-05-23,Riverside Centre,71,142
+155,2025-06-13,North Hub,27,81
+156,2025-04-23,Riverside Centre,20,100
+157,2025-03-23,East Community Hall,53,265
+158,2025-06-08,East Community Hall,89,356
+159,2025-07-26,Riverside Centre,66,330
+160,2025-01-10,Mobile Unit,21,105
+161,2025-05-31,Mobile Unit,88,352
+162,2025-04-14,Mobile Unit,84,168
+163,2025-01-29,Riverside Centre,72,360
+164,2025-04-06,Riverside Centre,88,264
+165,2025-01-25,Mobile Unit,11,33
+166,2025-08-05,Mobile Unit,52,260
+167,2025-08-28,Mobile Unit,16,32
+168,2025-08-23,Mobile Unit,64,320
+169,2025-07-16,North Hub,23,92
+170,2025-07-17,Riverside Centre,23,46
+171,2025-05-03,Mobile Unit,65,260
+172,2025-06-25,Mobile Unit,31,124
+173,2025-04-15,East Community Hall,21,84
+174,2025-05-14,Mobile Unit,38,190
+175,2025-02-06,East Community Hall,52,104
+176,2025-08-31,East Community Hall,54,216
+177,2025-02-25,North Hub,59,236
+178,2025-08-08,Mobile Unit,33,99
+179,2025-06-23,Riverside Centre,43,215
+180,2025-07-21,Mobile Unit,20,60
+181,2025-07-03,North Hub,64,128
+182,2025-02-04,Riverside Centre,38,76
+183,2025-08-21,East Community Hall,45,225
+184,2025-07-10,North Hub,45,135
+185,2025-05-22,Mobile Unit,34,170
+186,2025-05-14,Mobile Unit,14,28
+187,2025-03-19,North Hub,20,40
+188,2025-02-14,North Hub,40,120
+189,2025-08-15,Riverside Centre,16,80
+190,2025-02-24,East Community Hall,22,44
+191,2025-08-03,Riverside Centre,60,240
+192,2025-01-24,North Hub,35,175
+193,2025-04-24,East Community Hall,70,210
+194,2025-04-23,East Community Hall,47,141
+195,2025-05-08,Riverside Centre,81,324
+196,2025-04-29,North Hub,20,80
+197,2025-02-07,Riverside Centre,20,60
+198,2025-02-18,Riverside Centre,25,125
+199,2025-04-27,Riverside Centre,39,117
+200,2025-01-21,Riverside Centre,17,34
+201,2025-04-21,North Hub,33,132
+202,2025-09-05,Mobile Unit,49,147
+203,2025-04-04,North Hub,26,130
+204,2025-01-01,East Community Hall,69,345
+205,2025-07-27,East Community Hall,53,106
+206,2025-07-31,North Hub,52,260
+207,2025-07-11,North Hub,84,420
+208,2025-07-25,North Hub,77,154
+209,2025-09-06,Mobile Unit,79,395
+210,2025-03-26,Mobile Unit,16,64
+211,2025-06-13,Mobile Unit,78,156
+212,2025-06-05,East Community Hall,24,72
+213,2025-03-05,Mobile Unit,45,135
+214,2025-04-28,Mobile Unit,48,192
+215,2025-06-05,Riverside Centre,50,200
+216,2025-08-02,Riverside Centre,22,66
+217,2025-06-18,North Hub,87,435
+218,2025-08-08,Mobile Unit,35,175
+219,2025-05-27,Riverside Centre,32,160
+220,2025-02-20,North Hub,69,345
+221,2025-04-12,Mobile Unit,43,129
+222,2025-08-24,Riverside Centre,45,90
+223,2025-03-01,Mobile Unit,68,136
+224,2025-07-09,East Community Hall,18,72
+225,2025-01-06,Mobile Unit,80,320
+226,2025-07-10,Riverside Centre,74,222
+227,2025-04-25,North Hub,66,198
+228,2025-08-16,Mobile Unit,81,243
+229,2025-08-24,Riverside Centre,18,90
+230,2025-04-07,North Hub,56,224
+231,2025-04-28,East Community Hall,17,34
+232,2025-08-13,Riverside Centre,58,116
+233,2025-07-27,Mobile Unit,52,156
+234,2025-07-08,East Community Hall,88,176
+235,2025-04-10,Riverside Centre,40,160
+236,2025-07-24,East Community Hall,26,104
+237,2025-03-27,East Community Hall,45,225
+238,2025-04-17,East Community Hall,67,134
+239,2025-02-13,East Community Hall,65,260
+240,2025-05-11,Mobile Unit,72,288
+241,2025-05-05,Riverside Centre,28,84
+242,2025-04-16,Riverside Centre,88,352
+243,2025-08-13,Mobile Unit,89,267
+244,2025-01-24,North Hub,16,32
+245,2025-01-17,Riverside Centre,25,75
+246,2025-07-14,East Community Hall,26,52
+247,2025-02-08,Mobile Unit,17,51
+248,2025-07-10,North Hub,69,345
+249,2025-01-21,Riverside Centre,65,130
+250,2025-03-11,Mobile Unit,76,152
+251,2025-04-03,Mobile Unit,46,230
+252,2025-04-03,Mobile Unit,58,116
+253,2025-05-01,Riverside Centre,74,148
+254,2025-03-12,Mobile Unit,28,84
+255,2025-06-18,Mobile Unit,59,295
+256,2025-07-23,East Community Hall,33,132
+257,2025-07-16,East Community Hall,43,172
+258,2025-01-17,North Hub,74,222
+259,2025-05-11,North Hub,85,255
+260,2025-03-03,East Community Hall,66,198
+261,2025-02-13,Riverside Centre,77,385
+262,2025-01-28,Riverside Centre,58,290
+263,2025-02-01,Riverside Centre,37,111
+264,2025-04-23,East Community Hall,80,240
+265,2025-02-02,Riverside Centre,16,48
+266,2025-05-10,Mobile Unit,62,248
+267,2025-01-02,Riverside Centre,54,270
+268,2025-07-13,Mobile Unit,72,216
+269,2025-04-18,East Community Hall,59,118
+270,2025-07-14,Riverside Centre,75,375
+271,2025-01-13,East Community Hall,82,164
+272,2025-03-23,North Hub,72,288
+273,2025-09-01,East Community Hall,44,220
+274,2025-02-26,Mobile Unit,23,69
+275,2025-04-24,North Hub,56,112
+276,2025-01-18,East Community Hall,79,395
+277,2025-01-29,Mobile Unit,10,50
+278,2025-06-05,East Community Hall,47,94
+279,2025-01-09,Riverside Centre,57,114
+280,2025-06-26,North Hub,63,189
+281,2025-08-02,Mobile Unit,81,405
+282,2025-04-23,Mobile Unit,20,60
+283,2025-07-20,East Community Hall,72,288
+284,2025-05-14,East Community Hall,79,395
+285,2025-06-01,Riverside Centre,24,120
+286,2025-01-03,North Hub,72,360
+287,2025-07-23,Mobile Unit,44,88
+288,2025-04-03,Riverside Centre,80,400
+289,2025-07-18,East Community Hall,26,104
+290,2025-08-04,Mobile Unit,24,72
+291,2025-06-02,Mobile Unit,71,213
+292,2025-01-04,Riverside Centre,88,440
+293,2025-08-30,East Community Hall,65,130
+294,2025-05-14,North Hub,30,120
+295,2025-04-24,East Community Hall,25,75
+296,2025-01-13,Riverside Centre,10,40
+297,2025-08-04,East Community Hall,21,63
+298,2025-01-31,North Hub,80,320
+299,2025-08-21,North Hub,46,92
+300,2025-07-14,East Community Hall,49,98
+301,2025-05-20,Riverside Centre,41,123
+302,2025-04-22,North Hub,55,275
+303,2025-06-22,Mobile Unit,18,54
+304,2025-04-20,North Hub,60,120
+305,2025-01-09,Mobile Unit,59,177
+306,2025-07-27,North Hub,39,117
+307,2025-05-22,Riverside Centre,80,400
+308,2025-02-02,Mobile Unit,28,56
+309,2025-06-01,Riverside Centre,53,106
+310,2025-02-19,Mobile Unit,79,316
+311,2025-08-18,Mobile Unit,75,225
+312,2025-04-17,East Community Hall,88,176
+313,2025-06-06,Mobile Unit,48,240
+314,2025-08-21,East Community Hall,60,300
+315,2025-03-18,Riverside Centre,71,142
+316,2025-08-10,Riverside Centre,19,38
+317,2025-04-18,North Hub,60,120
+318,2025-05-22,Riverside Centre,13,65
+319,2025-03-20,Mobile Unit,22,110
+320,2025-05-26,East Community Hall,28,112
+321,2025-01-05,Riverside Centre,51,255
+322,2025-09-06,Riverside Centre,36,108
+323,2025-04-09,North Hub,81,324
+324,2025-07-27,Riverside Centre,57,285
+325,2025-05-09,Riverside Centre,27,135
+326,2025-03-28,Mobile Unit,77,154
+327,2025-08-29,Mobile Unit,20,100
+328,2025-02-03,North Hub,72,216
+329,2025-05-22,East Community Hall,19,95
+330,2025-06-28,North Hub,56,224
+331,2025-07-14,East Community Hall,48,240
+332,2025-05-26,North Hub,34,136
+333,2025-06-22,North Hub,50,200
+334,2025-05-15,North Hub,34,170
+335,2025-03-04,Mobile Unit,26,130
+336,2025-02-01,East Community Hall,89,178
+337,2025-02-25,Mobile Unit,54,108
+338,2025-02-14,Mobile Unit,21,105
+339,2025-07-21,Riverside Centre,65,325
+340,2025-04-10,North Hub,34,170
+341,2025-08-23,Riverside Centre,51,255
+342,2025-07-03,East Community Hall,38,190
+343,2025-08-14,Riverside Centre,21,63
+344,2025-08-31,Mobile Unit,11,33
+345,2025-09-06,Mobile Unit,36,108
+346,2025-05-09,North Hub,54,108
+347,2025-06-16,East Community Hall,67,268
+348,2025-08-27,Riverside Centre,72,144
+349,2025-06-12,East Community Hall,56,224
+350,2025-07-22,Mobile Unit,38,76
+351,2025-07-01,East Community Hall,65,195
+352,2025-04-05,North Hub,61,183
+353,2025-05-22,Mobile Unit,47,141
+354,2025-07-02,North Hub,11,33
+355,2025-06-16,East Community Hall,64,256
+356,2025-04-20,Riverside Centre,19,76
+357,2025-06-13,Mobile Unit,16,64
+358,2025-03-19,Mobile Unit,53,106
+359,2025-01-09,Riverside Centre,45,225
+360,2025-03-14,Riverside Centre,39,117
+361,2025-01-19,East Community Hall,14,28
+362,2025-05-26,East Community Hall,40,120
+363,2025-03-19,North Hub,67,335
+364,2025-07-30,North Hub,26,78
+365,2025-03-04,Mobile Unit,88,176
+366,2025-01-12,East Community Hall,41,205
+367,2025-07-31,Riverside Centre,59,177
+368,2025-03-27,Mobile Unit,46,230
+369,2025-01-17,Riverside Centre,28,84
+370,2025-05-29,Riverside Centre,38,152
+371,2025-02-11,East Community Hall,49,98
+372,2025-02-15,Mobile Unit,79,316
+373,2025-01-02,Riverside Centre,66,132
+374,2025-05-30,East Community Hall,85,425
+375,2025-07-25,East Community Hall,62,186
+376,2025-02-28,North Hub,30,150
+377,2025-06-04,Riverside Centre,66,132
+378,2025-08-24,East Community Hall,12,48
+379,2025-04-20,Mobile Unit,24,96
+380,2025-03-05,Mobile Unit,12,36
+381,2025-07-05,Mobile Unit,34,102
+382,2025-07-21,East Community Hall,64,256
+383,2025-06-05,Riverside Centre,27,81
+384,2025-03-19,East Community Hall,48,96
+385,2025-08-15,North Hub,54,162
+386,2025-03-26,Riverside Centre,52,104
+387,2025-07-04,East Community Hall,86,430
+388,2025-08-16,Riverside Centre,50,200
+389,2025-05-08,Mobile Unit,38,190
+390,2025-02-19,Riverside Centre,73,365
+391,2025-06-25,North Hub,17,85
+392,2025-04-13,North Hub,30,90
+393,2025-05-05,Mobile Unit,36,144
+394,2025-02-04,East Community Hall,46,230
+395,2025-07-09,Mobile Unit,47,141
+396,2025-07-21,Mobile Unit,24,96
+397,2025-07-06,North Hub,64,128
+398,2025-03-27,North Hub,62,310
+399,2025-02-11,East Community Hall,24,48
+400,2025-03-20,North Hub,45,135
+401,2025-01-29,Riverside Centre,26,52
+402,2025-08-05,Riverside Centre,23,46
+403,2025-05-23,Mobile Unit,31,62
+404,2025-05-22,East Community Hall,60,300
+405,2025-01-29,East Community Hall,83,166
+406,2025-07-02,Riverside Centre,45,180
+407,2025-08-27,North Hub,49,245
+408,2025-08-23,Mobile Unit,23,69
+409,2025-04-23,Riverside Centre,74,370
+410,2025-01-22,Riverside Centre,25,75
+411,2025-09-01,Riverside Centre,39,156
+412,2025-04-16,Mobile Unit,65,195
+413,2025-04-17,East Community Hall,47,94
+414,2025-01-14,North Hub,42,126
+415,2025-04-06,Riverside Centre,71,213
+416,2025-08-22,Mobile Unit,17,85
+417,2025-08-23,Riverside Centre,39,78
+418,2025-02-11,Mobile Unit,48,192
+419,2025-05-04,North Hub,36,108
+420,2025-06-28,East Community Hall,59,236
+421,2025-07-04,North Hub,43,86
+422,2025-04-14,North Hub,63,252
+423,2025-09-06,Riverside Centre,50,250
+424,2025-09-02,Riverside Centre,49,245
+425,2025-03-14,Riverside Centre,58,290
+426,2025-06-19,Mobile Unit,63,189
+427,2025-08-14,North Hub,83,166
+428,2025-03-05,North Hub,48,240
+429,2025-01-20,East Community Hall,65,130
+430,2025-04-18,Riverside Centre,36,108
+431,2025-01-15,Riverside Centre,19,57
+432,2025-02-13,East Community Hall,45,225
+433,2025-06-29,Riverside Centre,28,84
+434,2025-03-29,North Hub,24,48
+435,2025-04-11,Mobile Unit,17,51
+436,2025-09-06,Mobile Unit,78,312
+437,2025-05-02,Riverside Centre,72,288
+438,2025-07-17,East Community Hall,17,34
+439,2025-06-22,Riverside Centre,60,180
+440,2025-09-06,Mobile Unit,76,152
+441,2025-09-01,East Community Hall,46,92
+442,2025-04-23,Mobile Unit,35,175
+443,2025-04-21,East Community Hall,62,248
+444,2025-05-24,East Community Hall,82,246
+445,2025-04-08,North Hub,71,213
+446,2025-03-18,Riverside Centre,89,267
+447,2025-01-03,North Hub,25,75
+448,2025-03-23,Riverside Centre,39,117
+449,2025-01-29,East Community Hall,74,222
+450,2025-08-09,Riverside Centre,33,132
+451,2025-04-08,East Community Hall,85,425
+452,2025-08-22,Riverside Centre,38,114
+453,2025-08-27,Mobile Unit,80,160
+454,2025-08-06,Mobile Unit,89,178
+455,2025-07-26,Riverside Centre,42,210
+456,2025-01-15,East Community Hall,51,102
+457,2025-02-12,Riverside Centre,44,220
+458,2025-01-03,East Community Hall,47,141
+459,2025-03-09,Mobile Unit,77,154
+460,2025-05-26,Mobile Unit,82,410
+461,2025-07-13,Riverside Centre,46,230
+462,2025-07-05,East Community Hall,48,192
+463,2025-07-17,East Community Hall,51,255
+464,2025-07-24,North Hub,59,177
+465,2025-06-05,North Hub,82,164
+466,2025-05-17,Riverside Centre,40,80
+467,2025-04-10,East Community Hall,87,261
+468,2025-03-10,North Hub,15,30
+469,2025-02-24,East Community Hall,23,115
+470,2025-05-26,Riverside Centre,66,330
+471,2025-07-22,Mobile Unit,64,128
+472,2025-04-13,East Community Hall,55,165
+473,2025-04-04,North Hub,52,260
+474,2025-01-30,North Hub,75,375
+475,2025-01-24,East Community Hall,84,336
+476,2025-05-31,North Hub,60,300
+477,2025-05-15,Riverside Centre,10,50
+478,2025-01-01,Riverside Centre,40,80
+479,2025-08-14,Mobile Unit,60,180
+480,2025-04-16,Mobile Unit,35,70
+481,2025-04-14,Riverside Centre,79,158
+482,2025-07-03,Mobile Unit,41,82
+483,2025-05-06,Mobile Unit,86,344
+484,2025-04-14,East Community Hall,17,85
+485,2025-07-25,Mobile Unit,25,100
+486,2025-04-29,North Hub,83,415
+487,2025-04-12,East Community Hall,50,150
+488,2025-06-16,Riverside Centre,21,63
+489,2025-04-03,Mobile Unit,72,144
+490,2025-04-23,East Community Hall,72,216
+491,2025-03-16,East Community Hall,31,93
+492,2025-06-19,Mobile Unit,59,295
+493,2025-03-16,East Community Hall,20,40
+494,2025-07-02,East Community Hall,14,56
+495,2025-02-27,Riverside Centre,40,160
+496,2025-01-12,Riverside Centre,51,102
+497,2025-06-25,Riverside Centre,22,88
+498,2025-02-06,East Community Hall,47,94
+499,2025-05-26,North Hub,41,123
+500,2025-05-12,Riverside Centre,87,435
+501,2025-04-12,North Hub,69,276
+502,2025-03-05,Mobile Unit,86,172
+503,2025-05-27,North Hub,12,48
+504,2025-07-23,Riverside Centre,14,28
+505,2025-01-28,North Hub,78,312
+506,2025-01-03,Mobile Unit,41,82
+507,2025-01-14,East Community Hall,47,235
+508,2025-04-09,Riverside Centre,53,159
+509,2025-08-09,North Hub,36,144
+510,2025-04-12,Mobile Unit,78,156
+511,2025-03-05,East Community Hall,42,126
+512,2025-02-03,Riverside Centre,80,240
+513,2025-03-08,Riverside Centre,86,344
+514,2025-05-08,Mobile Unit,70,210
+515,2025-06-06,Mobile Unit,39,117
+516,2025-08-18,North Hub,79,158
+517,2025-01-28,Riverside Centre,72,288
+518,2025-04-05,Riverside Centre,64,128
+519,2025-07-01,Riverside Centre,40,120
+520,2025-03-30,North Hub,45,135
+521,2025-08-30,East Community Hall,59,118
+522,2025-05-26,North Hub,57,228
+523,2025-05-18,Riverside Centre,54,216
+524,2025-07-12,Mobile Unit,69,138
+525,2025-02-12,Riverside Centre,60,180
+526,2025-05-19,Mobile Unit,70,210
+527,2025-01-08,Mobile Unit,11,44
+528,2025-08-28,East Community Hall,27,54
+529,2025-01-20,Mobile Unit,21,105
+530,2025-01-26,Mobile Unit,51,102
+531,2025-03-28,North Hub,25,75
+532,2025-03-28,North Hub,40,120
+533,2025-03-31,Riverside Centre,52,156
+534,2025-02-26,Riverside Centre,19,38
+535,2025-02-15,Riverside Centre,64,192
+536,2025-03-10,East Community Hall,34,102
+537,2025-04-21,North Hub,11,44
+538,2025-01-28,North Hub,28,56
+539,2025-05-04,East Community Hall,86,258
+540,2025-08-30,East Community Hall,10,50
+541,2025-03-21,Mobile Unit,14,70
+542,2025-03-05,North Hub,76,152
+543,2025-08-10,Mobile Unit,12,36
+544,2025-09-07,East Community Hall,24,96
+545,2025-07-06,Riverside Centre,52,104
+546,2025-09-07,Mobile Unit,65,130
+547,2025-06-30,Riverside Centre,82,246
+548,2025-04-09,East Community Hall,86,172
+549,2025-01-23,East Community Hall,89,356
+550,2025-03-25,East Community Hall,16,48
+551,2025-07-08,North Hub,80,320
+552,2025-02-11,Mobile Unit,49,147
+553,2025-03-12,Riverside Centre,59,118
+554,2025-02-03,East Community Hall,89,178
+555,2025-01-03,East Community Hall,56,224
+556,2025-03-06,Mobile Unit,45,225
+557,2025-08-29,North Hub,44,176
+558,2025-08-28,Riverside Centre,28,112
+559,2025-03-07,North Hub,25,50
+560,2025-05-13,East Community Hall,40,120
+561,2025-01-13,Mobile Unit,66,132
+562,2025-03-10,North Hub,65,195
+563,2025-06-12,Riverside Centre,71,284
+564,2025-07-09,Riverside Centre,35,175
+565,2025-01-09,Riverside Centre,36,108
+566,2025-06-23,Mobile Unit,60,240
+567,2025-07-14,North Hub,74,222
+568,2025-01-27,North Hub,40,200
+569,2025-02-06,Mobile Unit,23,92
+570,2025-06-02,East Community Hall,28,84
+571,2025-04-27,Mobile Unit,65,260
+572,2025-07-23,North Hub,40,80
+573,2025-03-29,Riverside Centre,43,129
+574,2025-01-26,Riverside Centre,59,118
+575,2025-02-11,Riverside Centre,79,395
+576,2025-05-22,Mobile Unit,65,195
+577,2025-09-05,Mobile Unit,51,102
+578,2025-05-04,East Community Hall,51,153
+579,2025-01-17,North Hub,49,147
+580,2025-08-16,North Hub,50,150
+581,2025-07-22,North Hub,28,140
+582,2025-06-02,East Community Hall,32,160
+583,2025-01-14,Mobile Unit,61,305
+584,2025-05-18,East Community Hall,10,50
+585,2025-06-05,Riverside Centre,15,60
+586,2025-01-08,East Community Hall,60,120
+587,2025-06-04,Riverside Centre,41,205
+588,2025-04-17,Riverside Centre,17,68
+589,2025-02-04,Riverside Centre,63,189
+590,2025-04-20,Riverside Centre,53,106
+591,2025-05-25,Mobile Unit,45,135
+592,2025-05-17,Mobile Unit,65,195
+593,2025-06-05,Riverside Centre,56,224
+594,2025-07-06,East Community Hall,43,86
+595,2025-05-20,North Hub,73,146
+596,2025-01-01,North Hub,50,100
+597,2025-02-18,East Community Hall,57,228
+598,2025-09-03,Riverside Centre,79,158
+599,2025-07-20,Mobile Unit,86,258
+600,2025-03-08,Riverside Centre,80,320
+601,2025-02-20,Mobile Unit,83,166
+602,2025-01-09,Mobile Unit,41,205
+603,2025-04-08,North Hub,17,68
+604,2025-07-27,North Hub,49,245
+605,2025-06-25,Mobile Unit,52,208
+606,2025-05-13,North Hub,65,260
+607,2025-08-09,North Hub,70,210
+608,2025-07-02,Riverside Centre,71,213
+609,2025-09-02,Mobile Unit,11,55
+610,2025-03-12,Riverside Centre,36,72
+611,2025-04-02,North Hub,78,156
+612,2025-01-02,Riverside Centre,27,108
+613,2025-06-16,Riverside Centre,72,288
+614,2025-04-02,Riverside Centre,68,272
+615,2025-01-23,East Community Hall,29,116
+616,2025-02-18,North Hub,35,70
+617,2025-07-24,North Hub,83,249
+618,2025-01-01,Riverside Centre,25,75
+619,2025-01-07,North Hub,12,24
+620,2025-09-03,East Community Hall,59,236
+621,2025-02-01,Riverside Centre,31,93
+622,2025-02-08,Riverside Centre,42,126
+623,2025-03-21,North Hub,29,145
+624,2025-06-02,Mobile Unit,68,136
+625,2025-05-02,North Hub,24,72
+626,2025-08-24,North Hub,53,265
+627,2025-06-23,Mobile Unit,86,172
+628,2025-01-27,Mobile Unit,75,300
+629,2025-05-08,Riverside Centre,20,40
+630,2025-01-21,Mobile Unit,47,141
+631,2025-03-28,Mobile Unit,50,150
+632,2025-08-20,East Community Hall,24,96
+633,2025-02-06,Mobile Unit,71,142
+634,2025-07-04,Mobile Unit,21,63
+635,2025-05-03,Riverside Centre,41,205
+636,2025-08-26,North Hub,87,435
+637,2025-03-05,North Hub,14,28
+638,2025-04-26,Riverside Centre,28,84
+639,2025-02-14,East Community Hall,53,265
+640,2025-07-08,North Hub,39,78
+641,2025-01-28,Mobile Unit,35,105
+642,2025-01-07,North Hub,43,129
+643,2025-03-07,Mobile Unit,41,82
+644,2025-01-18,North Hub,66,264
+645,2025-08-16,East Community Hall,15,75
+646,2025-06-29,Riverside Centre,71,355
+647,2025-06-20,North Hub,75,300
+648,2025-07-28,East Community Hall,57,114
+649,2025-04-10,Mobile Unit,16,80
+650,2025-03-05,East Community Hall,84,168
+651,2025-08-31,Mobile Unit,68,204
+652,2025-04-01,Riverside Centre,65,195
+653,2025-04-21,North Hub,86,430
+654,2025-07-19,North Hub,28,56
+655,2025-08-25,North Hub,80,160
+656,2025-02-25,North Hub,61,305
+657,2025-01-06,Riverside Centre,49,98
+658,2025-03-11,North Hub,36,180
+659,2025-02-02,Riverside Centre,83,249
+660,2025-08-21,Riverside Centre,88,440
+661,2025-02-19,North Hub,39,195
+662,2025-09-04,East Community Hall,59,177
+663,2025-01-27,Mobile Unit,84,252
+664,2025-08-29,Riverside Centre,28,56
+665,2025-08-08,North Hub,36,144
+666,2025-08-14,North Hub,56,112
+667,2025-05-16,Mobile Unit,27,54
+668,2025-04-17,East Community Hall,52,208
+669,2025-01-16,Mobile Unit,16,48
+670,2025-03-23,North Hub,55,110
+671,2025-03-14,East Community Hall,55,165
+672,2025-01-04,East Community Hall,35,140
+673,2025-06-27,Riverside Centre,64,320
+674,2025-03-01,Riverside Centre,44,176
+675,2025-06-22,North Hub,75,150
+676,2025-05-09,Mobile Unit,42,126
+677,2025-04-14,North Hub,52,156
+678,2025-02-09,Riverside Centre,75,300
+679,2025-06-02,East Community Hall,83,166
+680,2025-06-22,East Community Hall,76,304
+681,2025-02-08,North Hub,28,84
+682,2025-02-18,North Hub,11,22
+683,2025-05-16,Riverside Centre,64,128
+684,2025-07-21,Riverside Centre,13,39
+685,2025-02-20,North Hub,13,52
+686,2025-04-24,East Community Hall,73,219
+687,2025-06-02,North Hub,58,232
+688,2025-01-01,East Community Hall,79,158
+689,2025-07-18,Riverside Centre,10,30
+690,2025-02-10,East Community Hall,80,400
+691,2025-02-27,North Hub,49,245
+692,2025-06-26,Riverside Centre,52,104
+693,2025-06-27,Mobile Unit,57,228
+694,2025-08-21,Mobile Unit,29,145
+695,2025-09-06,Riverside Centre,70,350
+696,2025-06-24,Mobile Unit,48,192
+697,2025-02-01,North Hub,15,30
+698,2025-05-16,Riverside Centre,36,144
+699,2025-07-27,Mobile Unit,18,72
+700,2025-07-23,East Community Hall,54,270
+701,2025-05-30,North Hub,77,308
+702,2025-06-19,East Community Hall,76,152
+703,2025-08-04,Riverside Centre,68,272
+704,2025-01-25,Riverside Centre,51,102
+705,2025-05-15,North Hub,14,56
+706,2025-07-12,Mobile Unit,13,39
+707,2025-03-20,Riverside Centre,59,118
+708,2025-01-22,East Community Hall,35,70
+709,2025-05-24,North Hub,32,128
+710,2025-05-23,Riverside Centre,21,105
+711,2025-07-04,Riverside Centre,77,154
+712,2025-04-16,Riverside Centre,65,325
+713,2025-02-26,Mobile Unit,26,78
+714,2025-08-20,Riverside Centre,76,304
+715,2025-06-25,Mobile Unit,81,324
+716,2025-08-27,Mobile Unit,85,170
+717,2025-01-07,East Community Hall,27,54
+718,2025-05-26,East Community Hall,28,112
+719,2025-03-24,North Hub,52,208
+720,2025-05-28,Riverside Centre,72,144
+721,2025-03-28,East Community Hall,44,132
+722,2025-09-04,North Hub,65,195
+723,2025-01-19,North Hub,73,292
+724,2025-06-21,Riverside Centre,51,204
+725,2025-05-16,Mobile Unit,79,237
+726,2025-03-28,Riverside Centre,63,252
+727,2025-02-23,Mobile Unit,77,154
+728,2025-07-13,East Community Hall,39,78
+729,2025-07-11,East Community Hall,39,156
+730,2025-06-04,Mobile Unit,22,88
+731,2025-07-20,Mobile Unit,13,52
+732,2025-09-02,East Community Hall,10,20
+733,2025-08-06,North Hub,45,180
+734,2025-07-13,Mobile Unit,30,150
+735,2025-09-04,Riverside Centre,81,243
+736,2025-04-05,Riverside Centre,50,200
+737,2025-08-24,North Hub,24,48
+738,2025-06-07,East Community Hall,75,150
+739,2025-07-20,Mobile Unit,35,70
+740,2025-05-16,North Hub,54,162
+741,2025-02-07,East Community Hall,30,60
+742,2025-08-08,Mobile Unit,68,272
+743,2025-08-02,Riverside Centre,75,300
+744,2025-08-13,North Hub,24,96
+745,2025-03-10,East Community Hall,78,156
+746,2025-03-03,North Hub,38,152
+747,2025-02-28,North Hub,78,234
+748,2025-08-28,North Hub,20,40
+749,2025-09-03,North Hub,58,116
+750,2025-01-02,Riverside Centre,81,243
+751,2025-01-16,East Community Hall,62,186
+752,2025-06-12,North Hub,12,48
+753,2025-04-23,East Community Hall,35,140
+754,2025-01-04,Mobile Unit,29,58
+755,2025-06-08,Riverside Centre,64,128
+756,2025-04-07,Riverside Centre,84,168
+757,2025-06-25,Riverside Centre,17,68
+758,2025-04-11,East Community Hall,82,246
+759,2025-02-15,Mobile Unit,16,48
+760,2025-05-14,Mobile Unit,51,255
+761,2025-06-08,Mobile Unit,36,72
+762,2025-03-02,Riverside Centre,26,104
+763,2025-01-30,North Hub,79,237
+764,2025-02-26,Mobile Unit,50,150
+765,2025-03-30,North Hub,27,135
+766,2025-03-27,East Community Hall,49,196
+767,2025-01-25,East Community Hall,55,110
+768,2025-07-23,East Community Hall,13,26
+769,2025-08-28,North Hub,22,44
+770,2025-01-07,Mobile Unit,81,243
+771,2025-06-18,Riverside Centre,16,80
+772,2025-05-16,Mobile Unit,38,76
+773,2025-01-11,Mobile Unit,84,252
+774,2025-04-21,Mobile Unit,80,240
+775,2025-03-16,North Hub,60,240
+776,2025-07-21,East Community Hall,57,285
+777,2025-05-30,Mobile Unit,83,415
+778,2025-06-12,Mobile Unit,15,45
+779,2025-01-06,East Community Hall,33,99
+780,2025-07-19,Mobile Unit,81,324
+781,2025-07-24,Mobile Unit,50,150
+782,2025-02-26,Riverside Centre,37,185
+783,2025-05-24,Mobile Unit,54,216
+784,2025-07-23,Riverside Centre,70,140
+785,2025-04-20,Mobile Unit,65,260
+786,2025-08-17,East Community Hall,75,225
+787,2025-05-19,East Community Hall,47,188
+788,2025-03-10,North Hub,51,102
+789,2025-07-31,North Hub,78,390
+790,2025-08-16,East Community Hall,66,198
+791,2025-06-20,East Community Hall,48,96
+792,2025-03-06,Riverside Centre,57,114
+793,2025-09-07,Mobile Unit,31,62
+794,2025-03-17,East Community Hall,34,136
+795,2025-07-25,Riverside Centre,69,207
+796,2025-02-08,North Hub,58,290
+797,2025-08-04,Riverside Centre,20,80
+798,2025-07-12,East Community Hall,17,51
+799,2025-01-18,Mobile Unit,59,177
+800,2025-03-06,East Community Hall,34,102
+801,2025-08-14,Mobile Unit,72,144
+802,2025-04-28,East Community Hall,11,55
+803,2025-04-13,Riverside Centre,50,200
+804,2025-05-17,North Hub,71,355
+805,2025-04-10,Riverside Centre,12,48
+806,2025-07-16,Riverside Centre,71,213
+807,2025-01-27,North Hub,32,96
+808,2025-04-08,East Community Hall,79,395
+809,2025-07-20,North Hub,31,155
+810,2025-08-09,East Community Hall,12,48
+811,2025-01-06,Riverside Centre,83,332
+812,2025-03-17,East Community Hall,60,240
+813,2025-01-02,North Hub,80,320
+814,2025-08-05,North Hub,60,120
+815,2025-03-05,Riverside Centre,39,117
+816,2025-03-28,Mobile Unit,64,128
+817,2025-03-10,East Community Hall,79,395
+818,2025-01-18,Mobile Unit,34,68
+819,2025-01-13,East Community Hall,63,189
+820,2025-03-16,East Community Hall,28,84
+821,2025-05-18,East Community Hall,32,96
+822,2025-07-14,Mobile Unit,74,370
+823,2025-04-08,North Hub,67,335
+824,2025-07-28,Riverside Centre,82,328
+825,2025-06-21,East Community Hall,75,225
+826,2025-02-26,East Community Hall,35,70
+827,2025-07-27,Riverside Centre,18,72
+828,2025-03-28,Riverside Centre,48,240
+829,2025-04-11,North Hub,79,395
+830,2025-03-05,Mobile Unit,12,48
+831,2025-02-13,North Hub,61,183
+832,2025-06-24,East Community Hall,76,304
+833,2025-06-04,Mobile Unit,28,112
+834,2025-06-27,North Hub,17,34
+835,2025-03-23,East Community Hall,32,96
+836,2025-03-28,Mobile Unit,12,60
+837,2025-07-31,North Hub,42,84
+838,2025-03-18,East Community Hall,19,76
+839,2025-06-13,Mobile Unit,77,231
+840,2025-08-07,Riverside Centre,15,45
+841,2025-05-15,Riverside Centre,76,380
+842,2025-07-12,East Community Hall,36,144
+843,2025-01-13,North Hub,69,207
+844,2025-07-21,Mobile Unit,56,280
+845,2025-06-20,East Community Hall,18,90
+846,2025-06-17,Riverside Centre,32,128
+847,2025-03-04,Mobile Unit,59,177
+848,2025-04-28,East Community Hall,30,60
+849,2025-02-24,Mobile Unit,61,305
+850,2025-01-14,Mobile Unit,38,114
+851,2025-06-05,East Community Hall,26,104
+852,2025-06-30,Riverside Centre,65,260
+853,2025-07-09,Mobile Unit,18,90
+854,2025-02-24,Riverside Centre,73,146
+855,2025-06-03,Mobile Unit,61,183
+856,2025-03-07,North Hub,89,178
+857,2025-05-17,North Hub,74,296
+858,2025-06-18,Mobile Unit,20,80
+859,2025-06-04,Mobile Unit,69,138
+860,2025-05-31,Mobile Unit,22,110
+861,2025-02-13,North Hub,79,237
+862,2025-02-19,Mobile Unit,85,255
+863,2025-07-23,Mobile Unit,14,56
+864,2025-04-25,Mobile Unit,67,201
+865,2025-06-16,North Hub,75,225
+866,2025-06-14,North Hub,69,138
+867,2025-09-04,North Hub,61,183
+868,2025-03-16,Mobile Unit,75,300
+869,2025-01-24,North Hub,26,130
+870,2025-03-31,North Hub,74,296
+871,2025-07-18,Mobile Unit,30,120
+872,2025-04-03,Riverside Centre,40,120
+873,2025-07-21,East Community Hall,56,280
+874,2025-05-23,Mobile Unit,42,126
+875,2025-07-03,North Hub,11,22
+876,2025-04-05,Mobile Unit,28,140
+877,2025-04-10,Mobile Unit,13,52
+878,2025-01-25,North Hub,19,38
+879,2025-02-01,Riverside Centre,81,162
+880,2025-07-08,Riverside Centre,54,162
+881,2025-03-04,Riverside Centre,12,24
+882,2025-07-29,Mobile Unit,40,200
+883,2025-02-06,Riverside Centre,65,130
+884,2025-08-29,Mobile Unit,69,207
+885,2025-08-06,Riverside Centre,72,216
+886,2025-03-21,Riverside Centre,75,150
+887,2025-02-26,East Community Hall,23,115
+888,2025-06-28,Mobile Unit,80,320
+889,2025-05-04,North Hub,67,335
+890,2025-01-23,Mobile Unit,77,308
+891,2025-05-27,North Hub,17,85
+892,2025-05-29,East Community Hall,39,195
+893,2025-03-10,Mobile Unit,86,344
+894,2025-06-07,North Hub,28,112
+895,2025-04-28,North Hub,69,207
+896,2025-02-24,Mobile Unit,23,46
+897,2025-06-04,Riverside Centre,10,30
+898,2025-06-10,East Community Hall,56,168
+899,2025-04-17,East Community Hall,34,170
+900,2025-05-24,East Community Hall,52,260
+901,2025-08-28,North Hub,68,204
+902,2025-07-09,Mobile Unit,81,405
+903,2025-02-01,Mobile Unit,39,195
+904,2025-08-25,Riverside Centre,77,231
+905,2025-02-18,Mobile Unit,89,445
+906,2025-07-18,North Hub,20,100
+907,2025-04-08,East Community Hall,20,80
+908,2025-04-23,North Hub,26,78
+909,2025-05-05,Riverside Centre,48,240
+910,2025-04-28,Riverside Centre,31,124
+911,2025-07-25,North Hub,73,146
+912,2025-04-27,East Community Hall,46,138
+913,2025-07-27,Mobile Unit,50,100
+914,2025-07-02,Riverside Centre,49,98
+915,2025-04-09,East Community Hall,89,356
+916,2025-07-28,Mobile Unit,72,360
+917,2025-06-28,East Community Hall,74,296
+918,2025-02-16,North Hub,86,172
+919,2025-04-29,North Hub,60,240
+920,2025-02-20,East Community Hall,38,114
+921,2025-03-19,Riverside Centre,83,166
+922,2025-08-23,North Hub,73,365
+923,2025-06-17,Mobile Unit,21,84
+924,2025-08-09,Riverside Centre,42,126
+925,2025-02-12,Riverside Centre,27,135
+926,2025-05-23,East Community Hall,87,174
+927,2025-05-05,East Community Hall,67,335
+928,2025-04-02,North Hub,36,144
+929,2025-05-18,Mobile Unit,25,50
+930,2025-06-15,East Community Hall,15,60
+931,2025-05-20,East Community Hall,76,228
+932,2025-09-02,Riverside Centre,21,84
+933,2025-03-10,East Community Hall,54,162
+934,2025-04-21,North Hub,35,70
+935,2025-03-14,Mobile Unit,65,260
+936,2025-03-23,East Community Hall,71,355
+937,2025-07-08,Mobile Unit,78,390
+938,2025-04-16,North Hub,85,425
+939,2025-02-10,Mobile Unit,28,112
+940,2025-04-29,Riverside Centre,51,255
+941,2025-03-16,Mobile Unit,65,325
+942,2025-03-29,Riverside Centre,59,177
+943,2025-04-25,North Hub,34,68
+944,2025-03-08,North Hub,74,296
+945,2025-02-13,East Community Hall,31,93
+946,2025-06-19,North Hub,21,63
+947,2025-05-06,Riverside Centre,23,92
+948,2025-04-06,Mobile Unit,68,272
+949,2025-03-22,North Hub,16,32
+950,2025-01-12,North Hub,43,129
+951,2025-07-03,Riverside Centre,42,84
+952,2025-02-19,Mobile Unit,49,147
+953,2025-06-15,Mobile Unit,59,177
+954,2025-01-21,North Hub,74,296
+955,2025-01-03,Riverside Centre,19,95
+956,2025-07-16,East Community Hall,68,340
+957,2025-05-28,North Hub,62,124
+958,2025-08-27,East Community Hall,88,352
+959,2025-04-11,Riverside Centre,71,284
+960,2025-08-15,Riverside Centre,65,260
+961,2025-01-01,Mobile Unit,51,255
+962,2025-04-23,Riverside Centre,17,34
+963,2025-01-08,Riverside Centre,36,108
+964,2025-04-07,Mobile Unit,52,104
+965,2025-05-11,North Hub,72,144
+966,2025-03-04,Riverside Centre,12,60
+967,2025-01-14,Riverside Centre,87,348
+968,2025-04-29,Riverside Centre,86,172
+969,2025-03-11,Riverside Centre,23,115
+970,2025-04-04,East Community Hall,24,72
+971,2025-03-20,East Community Hall,19,95
+972,2025-01-23,Riverside Centre,15,75
+973,2025-04-03,Mobile Unit,57,285
+974,2025-03-06,Riverside Centre,72,288
+975,2025-05-06,Mobile Unit,41,205
+976,2025-01-27,Riverside Centre,50,250
+977,2025-01-22,North Hub,54,162
+978,2025-08-18,North Hub,60,240
+979,2025-04-17,East Community Hall,28,112
+980,2025-07-18,Mobile Unit,39,78
+981,2025-03-23,Mobile Unit,36,108
+982,2025-01-26,North Hub,64,256
+983,2025-03-06,North Hub,59,236
+984,2025-03-04,Riverside Centre,18,90
+985,2025-06-29,Riverside Centre,56,280
+986,2025-04-22,Mobile Unit,50,150
+987,2025-07-01,Riverside Centre,33,132
+988,2025-02-23,Riverside Centre,58,116
+989,2025-02-27,Mobile Unit,75,300
+990,2025-05-18,North Hub,19,95
+991,2025-08-25,Mobile Unit,82,410
+992,2025-04-05,Riverside Centre,89,267
+993,2025-08-26,East Community Hall,54,216
+994,2025-08-10,North Hub,15,75
+995,2025-06-30,East Community Hall,19,57
+996,2025-05-15,North Hub,40,200
+997,2025-07-06,North Hub,83,166
+998,2025-03-21,Mobile Unit,87,174
+999,2025-07-02,North Hub,39,195
+1000,2025-01-24,North Hub,72,360
+1001,2025-03-01,Riverside Centre,47,141
+1002,2025-02-19,North Hub,19,57
+1003,2025-06-19,East Community Hall,17,68
+1004,2025-02-07,East Community Hall,69,138
+1005,2025-01-20,East Community Hall,68,340
+1006,2025-07-25,Mobile Unit,89,445
+1007,2025-07-29,North Hub,72,288
+1008,2025-06-20,Mobile Unit,72,216
+1009,2025-08-21,East Community Hall,85,170
+1010,2025-07-20,East Community Hall,71,355
+1011,2025-08-22,Riverside Centre,73,292
+1012,2025-05-07,Mobile Unit,48,192
+1013,2025-07-05,North Hub,25,50
+1014,2025-04-07,Mobile Unit,75,375
+1015,2025-09-07,Riverside Centre,24,72
+1016,2025-07-14,North Hub,55,165
+1017,2025-03-17,East Community Hall,66,330
+1018,2025-04-08,Mobile Unit,78,234
+1019,2025-03-05,East Community Hall,51,153
+1020,2025-07-11,Riverside Centre,70,350
+1021,2025-04-13,Mobile Unit,37,148
+1022,2025-04-06,Mobile Unit,59,177
+1023,2025-05-31,North Hub,24,96
+1024,2025-06-15,North Hub,85,170
+1025,2025-04-13,Mobile Unit,84,420
+1026,2025-01-24,Riverside Centre,67,268
+1027,2025-06-09,North Hub,20,60
+1028,2025-03-17,East Community Hall,48,144
+1029,2025-07-15,East Community Hall,30,150
+1030,2025-07-16,North Hub,72,216
+1031,2025-07-31,North Hub,66,264
+1032,2025-02-01,North Hub,28,140
+1033,2025-03-11,East Community Hall,13,52
+1034,2025-01-17,Riverside Centre,38,76
+1035,2025-07-20,North Hub,72,288
+1036,2025-04-20,East Community Hall,81,324
+1037,2025-06-08,Riverside Centre,26,130
+1038,2025-01-25,Riverside Centre,74,148
+1039,2025-06-05,Mobile Unit,76,380
+1040,2025-03-26,Mobile Unit,84,420
+1041,2025-07-11,East Community Hall,63,315
+1042,2025-08-21,Riverside Centre,83,332
+1043,2025-07-27,Mobile Unit,58,116
+1044,2025-02-27,North Hub,35,105
+1045,2025-07-24,North Hub,19,57
+1046,2025-09-05,North Hub,13,39
+1047,2025-06-24,Riverside Centre,86,258
+1048,2025-05-07,Mobile Unit,30,90
+1049,2025-08-10,Riverside Centre,30,60
+1050,2025-04-05,Riverside Centre,57,285
+1051,2025-01-24,Mobile Unit,33,99
+1052,2025-07-04,Riverside Centre,73,292
+1053,2025-06-03,Mobile Unit,48,144
+1054,2025-08-05,Mobile Unit,89,178
+1055,2025-06-02,East Community Hall,41,164
+1056,2025-05-31,Riverside Centre,81,162
+1057,2025-01-31,East Community Hall,49,147
+1058,2025-01-14,Riverside Centre,12,36
+1059,2025-01-28,Mobile Unit,60,180
+1060,2025-05-17,East Community Hall,78,234
+1061,2025-07-13,Riverside Centre,25,75
+1062,2025-02-09,Mobile Unit,48,96
+1063,2025-08-25,Mobile Unit,73,219
+1064,2025-05-26,North Hub,50,150
+1065,2025-03-01,North Hub,24,96
+1066,2025-03-22,North Hub,22,110
+1067,2025-03-30,North Hub,16,48
+1068,2025-03-16,Mobile Unit,84,252
+1069,2025-04-30,North Hub,55,110
+1070,2025-05-28,East Community Hall,85,340
+1071,2025-07-05,North Hub,47,141
+1072,2025-07-07,Riverside Centre,12,36
+1073,2025-03-28,East Community Hall,87,435
+1074,2025-06-21,Riverside Centre,24,120
+1075,2025-07-30,North Hub,50,100
+1076,2025-06-29,Mobile Unit,20,60
+1077,2025-02-15,Riverside Centre,83,415
+1078,2025-03-22,Mobile Unit,41,82
+1079,2025-03-22,Mobile Unit,72,288
+1080,2025-02-03,Mobile Unit,51,204
+1081,2025-06-12,East Community Hall,87,348
+1082,2025-03-15,North Hub,34,136
+1083,2025-02-20,Riverside Centre,84,168
+1084,2025-06-20,East Community Hall,14,70
+1085,2025-08-08,Mobile Unit,13,65
+1086,2025-07-10,North Hub,78,312
+1087,2025-08-17,Riverside Centre,37,111
+1088,2025-03-25,Mobile Unit,64,192
+1089,2025-01-15,East Community Hall,69,138
+1090,2025-04-20,East Community Hall,64,256
+1091,2025-09-02,Riverside Centre,74,370
+1092,2025-05-08,Mobile Unit,79,158
+1093,2025-01-24,East Community Hall,47,235
+1094,2025-08-12,East Community Hall,89,356
+1095,2025-08-24,Mobile Unit,35,175
+1096,2025-02-09,North Hub,77,385
+1097,2025-04-06,East Community Hall,84,252
+1098,2025-06-28,East Community Hall,73,365
+1099,2025-01-08,East Community Hall,66,132
+1100,2025-05-26,East Community Hall,68,204
+1101,2025-01-28,Mobile Unit,56,280
+1102,2025-01-22,Mobile Unit,71,355
+1103,2025-06-06,Riverside Centre,61,244
+1104,2025-04-07,East Community Hall,51,255
+1105,2025-04-22,North Hub,25,100
+1106,2025-02-12,North Hub,66,264
+1107,2025-05-29,East Community Hall,12,36
+1108,2025-05-18,Mobile Unit,40,200
+1109,2025-01-24,Riverside Centre,10,30
+1110,2025-07-02,Mobile Unit,66,198
+1111,2025-08-04,East Community Hall,80,240
+1112,2025-05-24,East Community Hall,70,280
+1113,2025-03-20,North Hub,52,156
+1114,2025-04-19,North Hub,35,70
+1115,2025-08-31,Riverside Centre,85,255
+1116,2025-07-06,Mobile Unit,26,104
+1117,2025-04-05,Riverside Centre,21,42
+1118,2025-06-02,North Hub,62,124
+1119,2025-03-03,Mobile Unit,78,312
+1120,2025-06-02,East Community Hall,83,249
+1121,2025-07-25,North Hub,38,152
+1122,2025-08-23,North Hub,19,57
+1123,2025-07-25,North Hub,65,195
+1124,2025-03-15,East Community Hall,10,20
+1125,2025-07-07,North Hub,19,76
+1126,2025-03-17,East Community Hall,78,156
+1127,2025-07-21,East Community Hall,86,258
+1128,2025-07-31,East Community Hall,46,92
+1129,2025-08-22,North Hub,70,140
+1130,2025-07-23,East Community Hall,16,32
+1131,2025-08-02,East Community Hall,62,186
+1132,2025-04-07,North Hub,81,324
+1133,2025-08-21,Riverside Centre,67,201
+1134,2025-04-15,Riverside Centre,56,112
+1135,2025-07-25,North Hub,33,132
+1136,2025-04-21,Riverside Centre,58,174
+1137,2025-03-17,Mobile Unit,71,355
+1138,2025-05-15,East Community Hall,75,150
+1139,2025-06-20,Riverside Centre,42,126
+1140,2025-07-08,East Community Hall,84,336
+1141,2025-02-12,North Hub,53,265
+1142,2025-05-04,Riverside Centre,16,48
+1143,2025-05-05,East Community Hall,34,170
+1144,2025-03-16,Riverside Centre,36,108
+1145,2025-02-08,North Hub,19,76
+1146,2025-08-10,North Hub,57,285
+1147,2025-08-26,Riverside Centre,53,106
+1148,2025-01-31,North Hub,17,85
+1149,2025-08-23,Mobile Unit,43,129
+1150,2025-04-19,East Community Hall,41,205
+1151,2025-03-21,East Community Hall,84,252
+1152,2025-03-25,North Hub,88,352
+1153,2025-05-02,Mobile Unit,19,38
+1154,2025-07-11,Riverside Centre,40,200
+1155,2025-01-17,Mobile Unit,40,80
+1156,2025-06-18,North Hub,43,215
+1157,2025-07-18,North Hub,49,245
+1158,2025-03-11,East Community Hall,87,261
+1159,2025-07-18,Riverside Centre,27,81
+1160,2025-04-24,East Community Hall,24,48
+1161,2025-06-26,Mobile Unit,77,385
+1162,2025-07-17,East Community Hall,72,144
+1163,2025-05-08,North Hub,83,332
+1164,2025-02-11,Mobile Unit,70,140
+1165,2025-08-06,North Hub,69,345
+1166,2025-08-22,North Hub,89,178
+1167,2025-04-22,East Community Hall,76,304
+1168,2025-04-23,Riverside Centre,40,160
+1169,2025-05-13,East Community Hall,67,134
+1170,2025-03-20,East Community Hall,69,207
+1171,2025-07-13,North Hub,54,162
+1172,2025-07-05,East Community Hall,49,196
+1173,2025-01-15,Riverside Centre,58,290
+1174,2025-06-21,North Hub,41,205
+1175,2025-04-26,East Community Hall,74,370
+1176,2025-08-25,North Hub,55,275
+1177,2025-05-18,North Hub,76,228
+1178,2025-06-04,Mobile Unit,26,78
+1179,2025-04-01,East Community Hall,39,117
+1180,2025-07-29,Mobile Unit,52,104
+1181,2025-08-19,Mobile Unit,62,186
+1182,2025-01-25,East Community Hall,80,240
+1183,2025-05-10,East Community Hall,76,228
+1184,2025-04-14,Mobile Unit,79,316
+1185,2025-06-27,North Hub,46,184
+1186,2025-03-18,Riverside Centre,66,132
+1187,2025-04-06,Mobile Unit,54,270
+1188,2025-01-10,East Community Hall,51,102
+1189,2025-04-20,Riverside Centre,62,310
+1190,2025-05-25,North Hub,71,284
+1191,2025-04-09,Riverside Centre,68,204
+1192,2025-03-05,Mobile Unit,84,420
+1193,2025-03-17,Riverside Centre,41,164
+1194,2025-06-21,Mobile Unit,51,204
+1195,2025-05-15,Mobile Unit,59,177
+1196,2025-04-29,Riverside Centre,78,312
+1197,2025-06-16,North Hub,59,177
+1198,2025-04-09,Mobile Unit,61,244
+1199,2025-03-17,Mobile Unit,80,160
+1200,2025-02-01,Riverside Centre,48,192
+1201,2025-07-14,Riverside Centre,75,300
+1202,2025-06-02,East Community Hall,22,110
+1203,2025-01-02,East Community Hall,29,58
+1204,2025-01-20,North Hub,44,220
+1205,2025-02-17,North Hub,52,260
+1206,2025-01-29,Mobile Unit,63,126
+1207,2025-04-23,Riverside Centre,16,64
+1208,2025-09-04,Riverside Centre,66,330
+1209,2025-03-20,Mobile Unit,46,184
+1210,2025-01-02,Riverside Centre,86,172
+1211,2025-02-02,Riverside Centre,84,252
+1212,2025-05-04,Mobile Unit,78,156
+1213,2025-03-29,North Hub,76,152
+1214,2025-07-29,Mobile Unit,47,94
+1215,2025-05-05,East Community Hall,65,325
+1216,2025-07-14,Riverside Centre,17,34
+1217,2025-02-13,Mobile Unit,66,330
+1218,2025-08-14,Mobile Unit,14,28
+1219,2025-07-22,Riverside Centre,19,57
+1220,2025-07-02,East Community Hall,48,240
+1221,2025-08-08,North Hub,11,33
+1222,2025-05-30,Mobile Unit,36,108
+1223,2025-06-27,East Community Hall,64,256
+1224,2025-06-25,Mobile Unit,75,300
+1225,2025-03-27,Mobile Unit,22,66
+1226,2025-01-01,Riverside Centre,76,228
+1227,2025-09-05,Mobile Unit,24,96
+1228,2025-03-04,Riverside Centre,64,256
+1229,2025-05-25,Riverside Centre,45,225
+1230,2025-01-10,North Hub,66,330
+1231,2025-01-14,Mobile Unit,57,285
+1232,2025-01-05,North Hub,25,100
+1233,2025-01-15,North Hub,16,64
+1234,2025-07-14,East Community Hall,65,325
+1235,2025-08-13,Riverside Centre,52,208
+1236,2025-05-17,East Community Hall,70,350
+1237,2025-05-01,Mobile Unit,78,312
+1238,2025-08-09,Mobile Unit,10,50
+1239,2025-08-17,North Hub,31,124
+1240,2025-02-16,Mobile Unit,70,140
+1241,2025-03-17,North Hub,79,237
+1242,2025-02-20,North Hub,78,390
+1243,2025-08-07,East Community Hall,49,147
+1244,2025-01-18,Riverside Centre,25,75
+1245,2025-06-20,Riverside Centre,14,56
+1246,2025-02-27,North Hub,17,85
+1247,2025-02-04,Mobile Unit,22,110
+1248,2025-09-06,North Hub,60,240
+1249,2025-03-21,East Community Hall,81,243
+1250,2025-02-12,Riverside Centre,47,188
+1251,2025-02-23,Mobile Unit,80,320
+1252,2025-07-29,Riverside Centre,30,120
+1253,2025-03-23,Riverside Centre,28,112
+1254,2025-08-24,Riverside Centre,81,162
+1255,2025-04-13,East Community Hall,54,108
+1256,2025-03-27,Mobile Unit,20,60
+1257,2025-03-22,Riverside Centre,72,144
+1258,2025-02-23,Mobile Unit,73,146
+1259,2025-04-09,Riverside Centre,47,141
+1260,2025-04-07,Mobile Unit,77,308
+1261,2025-04-28,North Hub,81,405
+1262,2025-05-24,Mobile Unit,66,198
+1263,2025-09-04,East Community Hall,54,216
+1264,2025-06-26,Mobile Unit,82,328
+1265,2025-01-05,East Community Hall,79,395
+1266,2025-03-11,Mobile Unit,17,68
+1267,2025-02-24,East Community Hall,26,104
+1268,2025-04-09,Mobile Unit,67,134
+1269,2025-02-12,Mobile Unit,86,172
+1270,2025-08-15,Mobile Unit,75,225
+1271,2025-07-14,Mobile Unit,88,176
+1272,2025-06-10,Riverside Centre,27,81
+1273,2025-02-21,East Community Hall,44,88
+1274,2025-01-09,North Hub,18,90
+1275,2025-02-13,North Hub,83,249
+1276,2025-09-05,East Community Hall,48,192
+1277,2025-05-27,Riverside Centre,63,252
+1278,2025-04-02,East Community Hall,26,52
+1279,2025-04-01,North Hub,29,87
+1280,2025-01-25,East Community Hall,71,142
+1281,2025-09-06,Riverside Centre,72,144
+1282,2025-05-28,North Hub,38,190
+1283,2025-05-09,Riverside Centre,14,70
+1284,2025-05-23,East Community Hall,72,216
+1285,2025-07-07,Riverside Centre,47,188
+1286,2025-08-26,North Hub,64,128
+1287,2025-08-06,Riverside Centre,44,220
+1288,2025-05-20,Riverside Centre,53,212
+1289,2025-07-13,East Community Hall,15,45
+1290,2025-07-18,Mobile Unit,32,128
+1291,2025-04-02,North Hub,57,114
+1292,2025-09-07,Riverside Centre,33,165
+1293,2025-07-21,North Hub,75,375
+1294,2025-02-24,East Community Hall,66,132
+1295,2025-05-19,Riverside Centre,46,138
+1296,2025-05-10,North Hub,16,80
+1297,2025-07-24,North Hub,77,385
+1298,2025-08-28,Riverside Centre,67,335
+1299,2025-05-31,Mobile Unit,62,310
+1300,2025-06-25,North Hub,74,148
+1301,2025-01-28,Riverside Centre,10,50
+1302,2025-03-03,Mobile Unit,46,230
+1303,2025-04-04,Riverside Centre,75,300
+1304,2025-07-31,Mobile Unit,86,172
+1305,2025-07-07,North Hub,78,156
+1306,2025-04-26,Riverside Centre,36,180
+1307,2025-08-30,Riverside Centre,12,48
+1308,2025-08-22,East Community Hall,48,96
+1309,2025-06-15,North Hub,14,70
+1310,2025-02-14,North Hub,68,272
+1311,2025-02-07,East Community Hall,14,28
+1312,2025-07-08,East Community Hall,21,42
+1313,2025-08-06,Riverside Centre,37,148
+1314,2025-03-03,Mobile Unit,79,316
+1315,2025-02-27,North Hub,53,265
+1316,2025-01-09,East Community Hall,77,231
+1317,2025-05-12,Mobile Unit,39,78
+1318,2025-03-12,Riverside Centre,27,54
+1319,2025-02-08,East Community Hall,40,200
+1320,2025-06-24,Riverside Centre,54,162
+1321,2025-08-07,Riverside Centre,31,93
+1322,2025-01-03,North Hub,26,104
+1323,2025-01-14,East Community Hall,20,80
+1324,2025-04-15,North Hub,22,44
+1325,2025-04-30,North Hub,11,44
+1326,2025-02-17,East Community Hall,66,264
+1327,2025-03-09,Mobile Unit,21,42
+1328,2025-04-24,North Hub,36,180
+1329,2025-01-03,Riverside Centre,81,162
+1330,2025-02-24,Riverside Centre,26,52
+1331,2025-02-19,Riverside Centre,25,50
+1332,2025-06-01,East Community Hall,42,168
+1333,2025-07-27,North Hub,40,200
+1334,2025-05-03,East Community Hall,85,255
+1335,2025-06-21,Riverside Centre,50,250
+1336,2025-06-24,East Community Hall,35,140
+1337,2025-02-22,North Hub,22,110
+1338,2025-06-24,East Community Hall,67,268
+1339,2025-03-27,North Hub,76,304
+1340,2025-06-09,Mobile Unit,14,42
+1341,2025-05-27,Mobile Unit,34,170
+1342,2025-05-19,Mobile Unit,33,132
+1343,2025-08-13,Riverside Centre,46,92
+1344,2025-09-05,North Hub,44,88
+1345,2025-01-05,North Hub,61,305
+1346,2025-07-30,East Community Hall,71,142
+1347,2025-05-01,East Community Hall,70,140
+1348,2025-01-27,Riverside Centre,22,66
+1349,2025-01-01,Mobile Unit,66,264
+1350,2025-06-21,Mobile Unit,45,225
+1351,2025-04-26,Mobile Unit,27,81
+1352,2025-03-03,Mobile Unit,45,225
+1353,2025-02-17,Mobile Unit,27,135
+1354,2025-04-22,Riverside Centre,15,45
+1355,2025-04-08,East Community Hall,54,162
+1356,2025-07-03,North Hub,35,70
+1357,2025-01-30,Riverside Centre,49,245
+1358,2025-04-15,Riverside Centre,48,96
+1359,2025-08-07,North Hub,73,219
+1360,2025-02-11,Mobile Unit,19,38
+1361,2025-07-02,East Community Hall,36,108
+1362,2025-07-09,Riverside Centre,79,237
+1363,2025-02-08,East Community Hall,24,72
+1364,2025-06-28,North Hub,19,76
+1365,2025-06-11,Riverside Centre,50,250
+1366,2025-07-12,Mobile Unit,70,350
+1367,2025-04-02,Riverside Centre,78,390
+1368,2025-07-17,Mobile Unit,78,390
+1369,2025-04-23,Mobile Unit,77,154
+1370,2025-01-20,Mobile Unit,63,315
+1371,2025-03-24,East Community Hall,36,108
+1372,2025-04-05,Mobile Unit,40,80
+1373,2025-02-05,Riverside Centre,81,243
+1374,2025-06-08,Riverside Centre,30,90
+1375,2025-05-15,North Hub,86,258
+1376,2025-04-25,Riverside Centre,71,284
+1377,2025-04-23,East Community Hall,10,50
+1378,2025-05-19,East Community Hall,59,236
+1379,2025-07-13,North Hub,88,440
+1380,2025-09-05,Riverside Centre,73,219
+1381,2025-02-13,Riverside Centre,88,264
+1382,2025-07-24,Riverside Centre,12,36
+1383,2025-03-05,East Community Hall,83,166
+1384,2025-07-21,Mobile Unit,34,136
+1385,2025-03-27,Riverside Centre,74,370
+1386,2025-01-02,East Community Hall,21,105
+1387,2025-08-16,North Hub,45,135
+1388,2025-06-28,Mobile Unit,77,385
+1389,2025-03-21,East Community Hall,31,93
+1390,2025-04-12,Mobile Unit,71,142
+1391,2025-03-31,Riverside Centre,68,272
+1392,2025-07-21,East Community Hall,63,252
+1393,2025-07-21,East Community Hall,76,152
+1394,2025-07-19,East Community Hall,12,36
+1395,2025-01-24,East Community Hall,45,135
+1396,2025-08-31,North Hub,18,54
+1397,2025-05-09,North Hub,11,44
+1398,2025-02-23,Riverside Centre,50,200
+1399,2025-02-19,North Hub,69,207
+1400,2025-06-13,North Hub,61,305
+1401,2025-02-07,East Community Hall,78,156
+1402,2025-07-31,Mobile Unit,57,171
+1403,2025-03-21,Riverside Centre,73,292
+1404,2025-05-24,North Hub,22,44
+1405,2025-03-07,Riverside Centre,10,20
+1406,2025-01-23,North Hub,20,60
+1407,2025-06-28,East Community Hall,77,385
+1408,2025-06-09,East Community Hall,75,300
+1409,2025-07-28,East Community Hall,86,344
+1410,2025-03-19,Riverside Centre,27,108
+1411,2025-05-25,Mobile Unit,40,120
+1412,2025-02-21,North Hub,36,108
+1413,2025-03-14,North Hub,88,352
+1414,2025-08-15,Mobile Unit,20,80
+1415,2025-01-10,Mobile Unit,69,207
+1416,2025-08-11,Mobile Unit,67,268
+1417,2025-04-16,Riverside Centre,22,88
+1418,2025-07-11,North Hub,67,201
+1419,2025-07-02,East Community Hall,17,68
+1420,2025-03-28,Riverside Centre,38,190
+1421,2025-03-17,Riverside Centre,21,63
+1422,2025-06-11,Riverside Centre,16,32
+1423,2025-03-23,East Community Hall,83,332
+1424,2025-08-15,North Hub,13,39
+1425,2025-05-08,East Community Hall,65,130
+1426,2025-07-20,East Community Hall,89,356
+1427,2025-01-20,North Hub,36,144
+1428,2025-03-23,North Hub,32,96
+1429,2025-07-06,Mobile Unit,70,280
+1430,2025-09-05,East Community Hall,78,390
+1431,2025-02-27,North Hub,19,76
+1432,2025-03-09,North Hub,84,336
+1433,2025-02-25,North Hub,26,52
+1434,2025-03-27,Mobile Unit,44,88
+1435,2025-07-27,East Community Hall,42,126
+1436,2025-08-20,Riverside Centre,27,81
+1437,2025-07-03,East Community Hall,71,213
+1438,2025-04-25,Riverside Centre,55,165
+1439,2025-07-16,North Hub,86,258
+1440,2025-05-01,North Hub,71,355
+1441,2025-01-22,Mobile Unit,56,280
+1442,2025-07-13,Riverside Centre,69,276
+1443,2025-02-12,Riverside Centre,80,400
+1444,2025-02-13,Riverside Centre,40,200
+1445,2025-04-08,Riverside Centre,30,120
+1446,2025-05-12,North Hub,51,102
+1447,2025-01-30,East Community Hall,77,385
+1448,2025-01-17,East Community Hall,17,85
+1449,2025-06-20,East Community Hall,52,208
+1450,2025-07-01,Mobile Unit,67,268
+1451,2025-07-01,East Community Hall,41,123
+1452,2025-05-17,East Community Hall,27,81
+1453,2025-08-28,North Hub,46,184
+1454,2025-04-29,Riverside Centre,77,385
+1455,2025-07-25,Riverside Centre,76,380
+1456,2025-08-03,Mobile Unit,21,63
+1457,2025-08-27,Riverside Centre,67,201
+1458,2025-04-08,East Community Hall,13,39
+1459,2025-01-10,Riverside Centre,17,51
+1460,2025-08-07,East Community Hall,73,292
+1461,2025-07-12,Mobile Unit,15,45
+1462,2025-06-10,North Hub,54,108
+1463,2025-04-08,Riverside Centre,65,130
+1464,2025-08-04,Riverside Centre,62,124
+1465,2025-07-10,East Community Hall,29,58
+1466,2025-03-26,Riverside Centre,62,248
+1467,2025-06-20,East Community Hall,74,222
+1468,2025-06-13,East Community Hall,50,200
+1469,2025-01-02,East Community Hall,11,33
+1470,2025-02-23,Mobile Unit,75,300
+1471,2025-05-06,North Hub,88,176
+1472,2025-09-07,Mobile Unit,33,99
+1473,2025-07-22,Riverside Centre,76,228
+1474,2025-04-06,North Hub,79,158
+1475,2025-05-09,Mobile Unit,14,28
+1476,2025-04-12,Mobile Unit,57,285
+1477,2025-04-24,East Community Hall,26,130
+1478,2025-06-25,North Hub,11,22
+1479,2025-01-16,Riverside Centre,16,32
+1480,2025-04-04,North Hub,52,208
+1481,2025-03-09,Riverside Centre,27,135
+1482,2025-06-11,Mobile Unit,16,48
+1483,2025-02-19,Riverside Centre,84,420
+1484,2025-01-31,Mobile Unit,31,155
+1485,2025-04-22,North Hub,41,164
+1486,2025-09-04,Riverside Centre,59,236
+1487,2025-01-08,Riverside Centre,14,28
+1488,2025-02-21,North Hub,39,156
+1489,2025-06-23,North Hub,30,120
+1490,2025-05-30,Mobile Unit,78,234
+1491,2025-01-06,Mobile Unit,87,261
+1492,2025-03-16,East Community Hall,44,132
+1493,2025-07-24,East Community Hall,10,40
+1494,2025-05-21,East Community Hall,28,112
+1495,2025-04-27,Mobile Unit,26,78
+1496,2025-08-18,Mobile Unit,72,288
+1497,2025-08-25,Riverside Centre,19,57
+1498,2025-06-23,Mobile Unit,20,60
+1499,2025-04-10,Mobile Unit,17,68
+1500,2025-03-09,Riverside Centre,15,30
+1501,2025-05-21,Riverside Centre,36,108
+1502,2025-07-30,Riverside Centre,18,36
+1503,2025-08-26,North Hub,15,60
+1504,2025-07-28,Mobile Unit,52,260
+1505,2025-04-14,North Hub,41,164
+1506,2025-02-19,North Hub,81,162
+1507,2025-09-05,East Community Hall,23,69
+1508,2025-01-29,North Hub,22,88
+1509,2025-03-24,Riverside Centre,52,208
+1510,2025-06-14,Riverside Centre,42,84
+1511,2025-07-01,North Hub,39,117
+1512,2025-01-14,East Community Hall,86,430
+1513,2025-08-24,Mobile Unit,38,114
+1514,2025-07-17,Riverside Centre,16,80
+1515,2025-06-06,East Community Hall,36,144
+1516,2025-01-20,North Hub,79,237
+1517,2025-04-29,Mobile Unit,25,125
+1518,2025-09-07,East Community Hall,89,267
+1519,2025-04-01,North Hub,55,110
+1520,2025-07-20,North Hub,40,80
+1521,2025-02-14,North Hub,38,190
+1522,2025-07-20,Riverside Centre,55,275
+1523,2025-02-18,North Hub,82,410
+1524,2025-03-04,North Hub,50,200
+1525,2025-08-13,East Community Hall,84,336
+1526,2025-08-24,North Hub,76,380
+1527,2025-07-08,Riverside Centre,65,195
+1528,2025-03-25,East Community Hall,39,156
+1529,2025-08-02,Mobile Unit,49,98
+1530,2025-04-12,East Community Hall,21,42
+1531,2025-05-26,Riverside Centre,60,180
+1532,2025-01-13,East Community Hall,31,124
+1533,2025-02-09,Mobile Unit,18,72
+1534,2025-06-10,East Community Hall,45,180
+1535,2025-03-10,Mobile Unit,52,104
+1536,2025-02-06,North Hub,50,150
+1537,2025-05-03,East Community Hall,33,66
+1538,2025-03-11,Mobile Unit,65,260
+1539,2025-02-15,North Hub,76,228
+1540,2025-01-19,East Community Hall,51,153
+1541,2025-03-05,North Hub,35,175
+1542,2025-05-27,Riverside Centre,56,280
+1543,2025-03-07,East Community Hall,76,380
+1544,2025-05-11,East Community Hall,31,93
+1545,2025-06-01,Riverside Centre,20,100
+1546,2025-04-01,North Hub,62,248
+1547,2025-04-01,Riverside Centre,77,308
+1548,2025-05-06,Riverside Centre,60,180
+1549,2025-07-11,Mobile Unit,48,240
+1550,2025-09-03,North Hub,51,102
+1551,2025-01-02,Riverside Centre,51,204
+1552,2025-06-22,Riverside Centre,84,336
+1553,2025-03-17,Riverside Centre,40,120
+1554,2025-05-08,North Hub,85,425
+1555,2025-03-30,Riverside Centre,71,142
+1556,2025-05-07,East Community Hall,36,72
+1557,2025-06-13,Riverside Centre,76,380
+1558,2025-08-27,Riverside Centre,87,435
+1559,2025-07-29,Riverside Centre,21,84
+1560,2025-03-24,East Community Hall,28,140
+1561,2025-03-11,North Hub,84,168
+1562,2025-02-24,Mobile Unit,86,344
+1563,2025-02-11,North Hub,25,50
+1564,2025-08-08,East Community Hall,85,170
+1565,2025-02-07,Mobile Unit,16,64
+1566,2025-08-01,Riverside Centre,52,260
+1567,2025-03-01,East Community Hall,60,180
+1568,2025-01-11,East Community Hall,59,177
+1569,2025-04-03,North Hub,48,240
+1570,2025-05-04,Mobile Unit,18,54
+1571,2025-03-24,Riverside Centre,25,100
+1572,2025-01-04,Mobile Unit,83,332
+1573,2025-08-06,Riverside Centre,37,74
+1574,2025-03-30,Riverside Centre,31,124
+1575,2025-05-19,East Community Hall,52,208
+1576,2025-03-18,Mobile Unit,34,170
+1577,2025-07-21,North Hub,61,305
+1578,2025-07-10,North Hub,69,276
+1579,2025-04-17,East Community Hall,47,235
+1580,2025-09-06,Mobile Unit,18,90
+1581,2025-03-22,North Hub,42,84
+1582,2025-01-03,Riverside Centre,56,168
+1583,2025-08-19,East Community Hall,16,64
+1584,2025-06-11,North Hub,10,30
+1585,2025-05-06,Riverside Centre,33,132
+1586,2025-02-28,East Community Hall,78,156
+1587,2025-04-08,North Hub,23,46
+1588,2025-02-04,Riverside Centre,41,82
+1589,2025-06-24,Mobile Unit,47,188
+1590,2025-05-08,North Hub,73,365
+1591,2025-02-28,Mobile Unit,75,375
+1592,2025-02-01,Riverside Centre,43,215
+1593,2025-06-08,Mobile Unit,62,248
+1594,2025-06-18,North Hub,40,80
+1595,2025-06-16,Mobile Unit,55,165
+1596,2025-07-23,Riverside Centre,32,160
+1597,2025-09-05,Mobile Unit,52,104
+1598,2025-03-01,East Community Hall,18,72
+1599,2025-07-16,Mobile Unit,79,158
+1600,2025-03-16,Mobile Unit,31,124
+1601,2025-07-21,North Hub,12,60
+1602,2025-07-23,North Hub,44,132
+1603,2025-07-27,Mobile Unit,43,172
+1604,2025-02-26,East Community Hall,42,168
+1605,2025-08-13,North Hub,23,69
+1606,2025-03-12,North Hub,12,36
+1607,2025-06-29,East Community Hall,75,375
+1608,2025-01-21,Riverside Centre,27,54
+1609,2025-07-02,North Hub,55,110
+1610,2025-04-07,East Community Hall,57,285
+1611,2025-03-12,East Community Hall,43,129
+1612,2025-04-30,North Hub,51,204
+1613,2025-08-09,Mobile Unit,69,138
+1614,2025-08-18,East Community Hall,18,90
+1615,2025-06-27,East Community Hall,29,58
+1616,2025-07-07,Riverside Centre,78,312
+1617,2025-07-10,North Hub,28,84
+1618,2025-06-13,Riverside Centre,78,312
+1619,2025-02-11,East Community Hall,76,304
+1620,2025-04-01,Mobile Unit,46,184
+1621,2025-02-06,North Hub,88,352
+1622,2025-05-25,Riverside Centre,31,124
+1623,2025-05-07,Riverside Centre,82,164
+1624,2025-06-28,North Hub,73,146
+1625,2025-06-30,North Hub,20,100
+1626,2025-07-12,North Hub,43,215
+1627,2025-05-11,North Hub,83,249
+1628,2025-03-30,North Hub,47,235
+1629,2025-06-11,Mobile Unit,14,70
+1630,2025-09-06,Mobile Unit,17,34
+1631,2025-04-22,Riverside Centre,33,165
+1632,2025-04-01,North Hub,53,212
+1633,2025-03-02,Riverside Centre,21,105
+1634,2025-04-17,East Community Hall,36,180
+1635,2025-09-01,Mobile Unit,72,144
+1636,2025-01-02,North Hub,51,153
+1637,2025-08-13,North Hub,40,120
+1638,2025-01-15,East Community Hall,32,64
+1639,2025-01-01,Riverside Centre,65,195
+1640,2025-06-21,East Community Hall,46,92
+1641,2025-02-19,North Hub,31,124
+1642,2025-07-19,North Hub,77,154
+1643,2025-01-22,East Community Hall,66,330
+1644,2025-03-26,North Hub,13,52
+1645,2025-05-20,North Hub,40,120
+1646,2025-04-16,East Community Hall,28,140
+1647,2025-03-27,East Community Hall,54,216
+1648,2025-05-03,Riverside Centre,54,162
+1649,2025-06-14,East Community Hall,86,430
+1650,2025-08-23,Mobile Unit,63,126
+1651,2025-08-03,North Hub,15,75
+1652,2025-02-10,East Community Hall,76,152
+1653,2025-06-11,Riverside Centre,22,88
+1654,2025-05-29,North Hub,82,164
+1655,2025-03-01,East Community Hall,48,144
+1656,2025-04-10,Riverside Centre,25,75
+1657,2025-01-22,North Hub,59,295
+1658,2025-02-23,Riverside Centre,25,50
+1659,2025-03-11,East Community Hall,75,150
+1660,2025-07-17,North Hub,82,246
+1661,2025-08-06,North Hub,87,174
+1662,2025-07-01,Riverside Centre,21,42
+1663,2025-05-16,Riverside Centre,39,195
+1664,2025-04-18,East Community Hall,39,156
+1665,2025-06-08,Riverside Centre,66,198
+1666,2025-07-24,North Hub,89,267
+1667,2025-02-20,Mobile Unit,80,160
+1668,2025-02-02,Riverside Centre,71,284
+1669,2025-07-25,East Community Hall,11,44
+1670,2025-05-22,Riverside Centre,12,60
+1671,2025-03-27,Riverside Centre,56,168
+1672,2025-01-22,North Hub,37,74
+1673,2025-09-03,North Hub,62,248
+1674,2025-06-30,Riverside Centre,48,192
+1675,2025-07-02,Mobile Unit,48,240
+1676,2025-04-12,Mobile Unit,73,219
+1677,2025-04-19,North Hub,84,336
+1678,2025-01-19,East Community Hall,34,136
+1679,2025-07-23,East Community Hall,49,245
+1680,2025-08-04,Mobile Unit,55,220
+1681,2025-02-28,East Community Hall,59,236
+1682,2025-01-02,North Hub,28,112
+1683,2025-04-27,East Community Hall,79,237
+1684,2025-01-26,Mobile Unit,77,308
+1685,2025-01-25,Mobile Unit,65,325
+1686,2025-01-18,Riverside Centre,57,285
+1687,2025-05-27,North Hub,29,145
+1688,2025-04-16,Riverside Centre,62,186
+1689,2025-01-14,Mobile Unit,36,72
+1690,2025-03-21,Mobile Unit,21,42
+1691,2025-02-04,Riverside Centre,88,264
+1692,2025-06-04,Mobile Unit,84,168
+1693,2025-02-23,Riverside Centre,70,140
+1694,2025-03-01,Mobile Unit,23,115
+1695,2025-06-01,North Hub,60,240
+1696,2025-08-19,Mobile Unit,80,160
+1697,2025-07-25,Mobile Unit,65,130
+1698,2025-03-27,North Hub,39,117
+1699,2025-02-20,Riverside Centre,34,102
+1700,2025-01-19,Mobile Unit,22,66
+1701,2025-04-23,Riverside Centre,57,228
+1702,2025-01-04,Mobile Unit,59,295
+1703,2025-05-12,Mobile Unit,75,225
+1704,2025-01-23,East Community Hall,50,150
+1705,2025-01-22,North Hub,67,335
+1706,2025-06-08,North Hub,48,96
+1707,2025-06-15,East Community Hall,17,85
+1708,2025-08-20,East Community Hall,69,138
+1709,2025-03-30,Mobile Unit,80,400
+1710,2025-01-29,East Community Hall,48,144
+1711,2025-03-21,East Community Hall,85,255
+1712,2025-08-14,Riverside Centre,21,42
+1713,2025-07-14,North Hub,66,330
+1714,2025-05-10,North Hub,74,370
+1715,2025-02-21,Mobile Unit,37,185
+1716,2025-05-04,East Community Hall,33,99
+1717,2025-08-08,Mobile Unit,38,152
+1718,2025-07-02,North Hub,40,160
+1719,2025-03-19,East Community Hall,13,52
+1720,2025-07-08,North Hub,56,224
+1721,2025-03-08,Riverside Centre,69,207
+1722,2025-08-30,North Hub,23,69
+1723,2025-06-12,North Hub,42,84
+1724,2025-04-28,Riverside Centre,38,76
+1725,2025-03-07,North Hub,44,176
+1726,2025-04-13,Riverside Centre,32,96
+1727,2025-02-25,Mobile Unit,61,305
+1728,2025-06-28,North Hub,63,126
+1729,2025-02-20,North Hub,16,32
+1730,2025-06-02,East Community Hall,12,48
+1731,2025-08-04,East Community Hall,31,62
+1732,2025-03-22,Riverside Centre,50,200
+1733,2025-02-28,Mobile Unit,30,90
+1734,2025-02-15,Mobile Unit,38,76
+1735,2025-02-28,Riverside Centre,73,365
+1736,2025-03-07,East Community Hall,36,144
+1737,2025-02-15,North Hub,28,112
+1738,2025-04-23,Riverside Centre,64,320
+1739,2025-03-28,Mobile Unit,24,72
+1740,2025-08-02,East Community Hall,66,264
+1741,2025-01-13,East Community Hall,22,110
+1742,2025-07-13,Mobile Unit,80,160
+1743,2025-06-11,Mobile Unit,41,82
+1744,2025-04-09,Mobile Unit,19,38
+1745,2025-04-24,Riverside Centre,15,45
+1746,2025-06-13,North Hub,40,160
+1747,2025-08-12,Riverside Centre,14,70
+1748,2025-08-28,East Community Hall,15,30
+1749,2025-01-29,Mobile Unit,17,51
+1750,2025-03-04,Mobile Unit,80,160
+1751,2025-01-11,Mobile Unit,58,290
+1752,2025-07-07,East Community Hall,28,84
+1753,2025-05-11,Mobile Unit,12,24
+1754,2025-09-06,Riverside Centre,88,264
+1755,2025-07-31,North Hub,70,210
+1756,2025-01-18,North Hub,18,72
+1757,2025-08-19,Mobile Unit,87,174
+1758,2025-03-21,East Community Hall,80,320
+1759,2025-03-03,North Hub,72,216
+1760,2025-09-01,North Hub,62,186
+1761,2025-01-24,Riverside Centre,88,352
+1762,2025-04-09,East Community Hall,83,166
+1763,2025-04-22,Riverside Centre,78,312
+1764,2025-08-17,Mobile Unit,39,195
+1765,2025-03-07,Riverside Centre,56,112
+1766,2025-01-07,Mobile Unit,54,216
+1767,2025-01-24,East Community Hall,57,171
+1768,2025-07-13,Mobile Unit,70,350
+1769,2025-08-27,Riverside Centre,14,42
+1770,2025-05-28,Riverside Centre,52,208
+1771,2025-06-26,Mobile Unit,27,135
+1772,2025-02-06,East Community Hall,66,132
+1773,2025-04-19,Mobile Unit,65,325
+1774,2025-03-04,North Hub,21,105
+1775,2025-03-03,North Hub,79,237
+1776,2025-03-29,North Hub,29,58
+1777,2025-09-06,East Community Hall,35,105
+1778,2025-01-08,Mobile Unit,18,36
+1779,2025-01-19,Mobile Unit,55,165
+1780,2025-05-20,East Community Hall,59,236
+1781,2025-03-12,Riverside Centre,62,186
+1782,2025-07-20,Riverside Centre,66,264
+1783,2025-01-05,Mobile Unit,27,108
+1784,2025-02-10,Mobile Unit,35,140
+1785,2025-03-20,North Hub,15,75
+1786,2025-06-11,Riverside Centre,40,160
+1787,2025-03-05,North Hub,15,60
+1788,2025-06-04,North Hub,61,122
+1789,2025-07-12,Mobile Unit,54,108
+1790,2025-03-09,Riverside Centre,84,420
+1791,2025-03-20,North Hub,25,100
+1792,2025-05-06,North Hub,48,240
+1793,2025-08-04,Riverside Centre,47,235
+1794,2025-03-09,East Community Hall,54,108
+1795,2025-08-07,Mobile Unit,52,156
+1796,2025-04-06,North Hub,45,90
+1797,2025-04-20,North Hub,76,304
+1798,2025-03-02,East Community Hall,68,340
+1799,2025-08-14,East Community Hall,36,108
+1800,2025-08-20,Mobile Unit,19,76
+1801,2025-03-22,Mobile Unit,11,55
+1802,2025-06-24,North Hub,67,335
+1803,2025-07-31,Riverside Centre,47,94
+1804,2025-03-02,East Community Hall,12,36
+1805,2025-06-17,Mobile Unit,56,112
+1806,2025-03-05,Riverside Centre,18,36
+1807,2025-04-02,East Community Hall,60,240
+1808,2025-04-11,Riverside Centre,81,324
+1809,2025-04-01,North Hub,74,148
+1810,2025-07-14,Mobile Unit,51,204
+1811,2025-07-14,Mobile Unit,41,82
+1812,2025-09-03,North Hub,63,126
+1813,2025-02-24,East Community Hall,30,60
+1814,2025-05-06,Riverside Centre,52,208
+1815,2025-04-16,Mobile Unit,78,390
+1816,2025-07-25,North Hub,47,188
+1817,2025-01-31,North Hub,70,280
+1818,2025-07-05,East Community Hall,29,87
+1819,2025-05-22,Riverside Centre,61,122
+1820,2025-03-03,Mobile Unit,87,174
+1821,2025-01-08,Mobile Unit,29,116
+1822,2025-07-25,North Hub,22,44
+1823,2025-02-22,North Hub,85,340
+1824,2025-06-22,Mobile Unit,43,172
+1825,2025-06-11,North Hub,46,230
+1826,2025-06-26,East Community Hall,21,63
+1827,2025-02-15,Mobile Unit,87,261
+1828,2025-05-02,North Hub,89,267
+1829,2025-02-10,North Hub,14,28
+1830,2025-03-02,Mobile Unit,73,146
+1831,2025-01-23,North Hub,33,165
+1832,2025-05-08,Mobile Unit,23,69
+1833,2025-05-16,Mobile Unit,58,116
+1834,2025-02-13,Mobile Unit,83,415
+1835,2025-04-11,North Hub,26,78
+1836,2025-03-24,Riverside Centre,41,205
+1837,2025-05-16,Riverside Centre,46,230
+1838,2025-06-09,Riverside Centre,29,87
+1839,2025-05-11,North Hub,77,154
+1840,2025-09-01,Mobile Unit,72,360
+1841,2025-02-17,Mobile Unit,49,196
+1842,2025-06-17,Riverside Centre,60,240
+1843,2025-08-14,Mobile Unit,81,405
+1844,2025-01-20,Mobile Unit,31,93
+1845,2025-08-04,Mobile Unit,78,390
+1846,2025-03-16,East Community Hall,63,252
+1847,2025-04-08,Riverside Centre,87,435
+1848,2025-05-05,Mobile Unit,54,216
+1849,2025-05-01,Riverside Centre,25,75
+1850,2025-01-05,Riverside Centre,66,132
+1851,2025-02-01,East Community Hall,17,85
+1852,2025-07-24,North Hub,47,235
+1853,2025-01-12,East Community Hall,33,66
+1854,2025-08-21,Mobile Unit,84,252
+1855,2025-02-28,Riverside Centre,74,296
+1856,2025-08-10,Riverside Centre,86,430
+1857,2025-03-10,Riverside Centre,63,252
+1858,2025-08-20,Riverside Centre,38,114
+1859,2025-01-31,North Hub,84,168
+1860,2025-03-15,East Community Hall,56,280
+1861,2025-07-28,North Hub,26,52
+1862,2025-01-10,East Community Hall,21,42
+1863,2025-07-13,Mobile Unit,29,116
+1864,2025-04-29,East Community Hall,59,118
+1865,2025-06-03,North Hub,16,32
+1866,2025-04-12,Mobile Unit,62,124
+1867,2025-03-11,East Community Hall,73,365
+1868,2025-06-28,Riverside Centre,67,335
+1869,2025-01-15,Mobile Unit,25,75
+1870,2025-03-04,Mobile Unit,69,345
+1871,2025-04-30,North Hub,32,128
+1872,2025-02-18,East Community Hall,82,410
+1873,2025-07-03,Riverside Centre,63,315
+1874,2025-08-16,Riverside Centre,24,96
+1875,2025-05-28,Riverside Centre,76,304
+1876,2025-08-02,Mobile Unit,71,142
+1877,2025-07-03,Mobile Unit,20,60
+1878,2025-07-31,Riverside Centre,12,36
+1879,2025-04-27,North Hub,74,296
+1880,2025-01-25,Mobile Unit,42,126
+1881,2025-06-10,North Hub,22,44
+1882,2025-05-27,East Community Hall,35,105
+1883,2025-01-19,Riverside Centre,56,280
+1884,2025-07-24,East Community Hall,75,225
+1885,2025-08-17,Mobile Unit,15,75
+1886,2025-06-20,Mobile Unit,28,112
+1887,2025-07-14,East Community Hall,65,260
+1888,2025-06-28,East Community Hall,70,350
+1889,2025-04-20,East Community Hall,70,210
+1890,2025-01-08,Riverside Centre,57,171
+1891,2025-06-03,North Hub,48,192
+1892,2025-04-03,North Hub,40,80
+1893,2025-07-02,North Hub,68,272
+1894,2025-03-01,Riverside Centre,58,174
+1895,2025-06-11,East Community Hall,74,296
+1896,2025-04-14,North Hub,63,315
+1897,2025-05-11,East Community Hall,42,168
+1898,2025-02-20,Mobile Unit,89,267
+1899,2025-03-21,Riverside Centre,23,92
+1900,2025-08-23,Riverside Centre,73,292
+1901,2025-01-15,North Hub,38,152
+1902,2025-05-16,North Hub,20,40
+1903,2025-04-23,Riverside Centre,17,68
+1904,2025-03-11,Riverside Centre,69,207
+1905,2025-06-04,East Community Hall,67,268
+1906,2025-06-14,East Community Hall,14,28
+1907,2025-08-07,East Community Hall,18,54
+1908,2025-08-18,North Hub,44,132
+1909,2025-07-11,Mobile Unit,59,177
+1910,2025-04-04,Riverside Centre,55,275
+1911,2025-01-29,Riverside Centre,51,102
+1912,2025-08-06,East Community Hall,12,48
+1913,2025-04-08,East Community Hall,25,50
+1914,2025-08-11,East Community Hall,68,136
+1915,2025-07-22,East Community Hall,43,172
+1916,2025-06-12,Mobile Unit,80,240
+1917,2025-07-11,East Community Hall,32,64
+1918,2025-05-24,Mobile Unit,13,26
+1919,2025-05-10,North Hub,27,108
+1920,2025-07-14,Mobile Unit,52,260
+1921,2025-09-03,Mobile Unit,71,213
+1922,2025-08-16,Riverside Centre,75,225
+1923,2025-02-16,Mobile Unit,22,110
+1924,2025-07-08,Mobile Unit,20,80
+1925,2025-07-21,Mobile Unit,86,430
+1926,2025-07-29,Riverside Centre,10,30
+1927,2025-06-20,Riverside Centre,11,55
+1928,2025-04-01,Mobile Unit,59,295
+1929,2025-04-23,Riverside Centre,87,435
+1930,2025-07-28,Riverside Centre,82,328
+1931,2025-06-30,North Hub,48,144
+1932,2025-08-29,Riverside Centre,80,160
+1933,2025-04-23,Riverside Centre,41,205
+1934,2025-01-31,North Hub,45,225
+1935,2025-08-10,East Community Hall,39,156
+1936,2025-08-06,Mobile Unit,23,69
+1937,2025-07-17,Riverside Centre,35,105
+1938,2025-03-16,Mobile Unit,78,234
+1939,2025-05-28,North Hub,30,150
+1940,2025-08-05,Mobile Unit,54,270
+1941,2025-04-04,East Community Hall,86,258
+1942,2025-08-22,Riverside Centre,77,231
+1943,2025-04-05,East Community Hall,19,57
+1944,2025-03-08,Mobile Unit,85,255
+1945,2025-03-29,North Hub,73,365
+1946,2025-06-30,Mobile Unit,52,156
+1947,2025-01-05,Riverside Centre,42,84
+1948,2025-05-19,Riverside Centre,24,120
+1949,2025-06-19,East Community Hall,78,234
+1950,2025-01-25,East Community Hall,55,165
+1951,2025-04-10,Mobile Unit,36,108
+1952,2025-07-19,Mobile Unit,44,220
+1953,2025-06-04,Mobile Unit,63,315
+1954,2025-01-27,Riverside Centre,71,142
+1955,2025-05-26,Riverside Centre,82,328
+1956,2025-07-04,North Hub,38,76
+1957,2025-03-09,Riverside Centre,81,324
+1958,2025-07-03,Riverside Centre,52,104
+1959,2025-08-16,Mobile Unit,44,220
+1960,2025-01-10,North Hub,63,315
+1961,2025-06-09,Mobile Unit,53,212
+1962,2025-08-02,North Hub,79,237
+1963,2025-03-15,Mobile Unit,10,40
+1964,2025-03-30,East Community Hall,36,108
+1965,2025-02-16,Riverside Centre,42,210
+1966,2025-08-19,Mobile Unit,70,280
+1967,2025-01-05,East Community Hall,70,350
+1968,2025-01-07,Riverside Centre,22,110
+1969,2025-07-22,East Community Hall,29,58
+1970,2025-07-26,Riverside Centre,16,64
+1971,2025-01-28,East Community Hall,13,65
+1972,2025-06-14,Riverside Centre,19,38
+1973,2025-06-04,East Community Hall,29,58
+1974,2025-01-05,North Hub,42,126
+1975,2025-02-15,North Hub,44,132
+1976,2025-07-24,East Community Hall,86,258
+1977,2025-04-12,Mobile Unit,43,215
+1978,2025-03-01,North Hub,43,129
+1979,2025-05-26,North Hub,16,64
+1980,2025-03-27,Mobile Unit,60,180
+1981,2025-01-14,Riverside Centre,17,51
+1982,2025-08-05,North Hub,23,115
+1983,2025-02-13,East Community Hall,35,175
+1984,2025-02-08,Riverside Centre,61,244
+1985,2025-04-25,Mobile Unit,25,100
+1986,2025-06-25,East Community Hall,30,60
+1987,2025-01-11,North Hub,76,228
+1988,2025-05-06,Riverside Centre,47,235
+1989,2025-02-24,North Hub,66,132
+1990,2025-05-31,East Community Hall,84,420
+1991,2025-05-15,Riverside Centre,28,84
+1992,2025-06-07,Riverside Centre,56,112
+1993,2025-07-11,Mobile Unit,59,236
+1994,2025-05-10,North Hub,36,72
+1995,2025-09-02,East Community Hall,13,52
+1996,2025-01-08,North Hub,21,105
+1997,2025-06-14,Riverside Centre,72,360
+1998,2025-09-04,Riverside Centre,31,124
+1999,2025-06-06,East Community Hall,51,204
+2000,2025-08-12,Riverside Centre,78,156
+2001,2025-04-03,North Hub,78,156
+2002,2025-04-08,North Hub,27,108
+2003,2025-04-13,North Hub,32,128
+2004,2025-06-15,Mobile Unit,29,87
+2005,2025-01-19,East Community Hall,81,405
+2006,2025-01-30,Riverside Centre,83,332
+2007,2025-05-19,North Hub,86,430
+2008,2025-03-12,Riverside Centre,56,168
+2009,2025-04-26,East Community Hall,66,198
+2010,2025-08-28,East Community Hall,11,22
+2011,2025-01-09,Mobile Unit,60,240
+2012,2025-02-07,North Hub,89,178
+2013,2025-04-10,North Hub,89,267
+2014,2025-05-11,North Hub,70,210
+2015,2025-04-15,Riverside Centre,84,252
+2016,2025-06-05,Mobile Unit,56,168
+2017,2025-02-17,North Hub,65,325
+2018,2025-08-20,Mobile Unit,31,124
+2019,2025-03-21,East Community Hall,44,220
+2020,2025-01-05,Mobile Unit,27,81
+2021,2025-05-03,North Hub,11,22
+2022,2025-03-24,East Community Hall,65,325
+2023,2025-02-25,Riverside Centre,83,249
+2024,2025-08-26,Mobile Unit,87,435
+2025,2025-08-11,Mobile Unit,16,32
+2026,2025-05-28,East Community Hall,80,400
+2027,2025-02-23,Mobile Unit,53,212
+2028,2025-08-19,North Hub,82,246
+2029,2025-04-29,Riverside Centre,21,84
+2030,2025-06-26,Mobile Unit,36,144
+2031,2025-07-03,North Hub,19,38
+2032,2025-02-01,North Hub,22,88
+2033,2025-05-17,Riverside Centre,36,144
+2034,2025-04-11,North Hub,30,60
+2035,2025-01-19,North Hub,68,272
+2036,2025-01-24,Riverside Centre,65,130
+2037,2025-07-25,East Community Hall,57,228
+2038,2025-02-11,Riverside Centre,35,105
+2039,2025-05-10,East Community Hall,83,415
+2040,2025-01-15,North Hub,35,175
+2041,2025-06-12,Riverside Centre,62,310
+2042,2025-04-21,Mobile Unit,74,296
+2043,2025-07-09,Mobile Unit,75,375
+2044,2025-02-23,Mobile Unit,49,147
+2045,2025-04-04,Riverside Centre,47,94
+2046,2025-03-19,North Hub,11,33
+2047,2025-09-06,Riverside Centre,47,94
+2048,2025-01-09,Mobile Unit,73,365
+2049,2025-04-18,North Hub,30,90
+2050,2025-02-14,East Community Hall,40,120
+2051,2025-05-01,Riverside Centre,82,246
+2052,2025-07-15,Mobile Unit,30,150
+2053,2025-04-27,Mobile Unit,86,344
+2054,2025-08-22,Mobile Unit,86,258
+2055,2025-05-15,East Community Hall,47,94
+2056,2025-07-16,Mobile Unit,45,180
+2057,2025-08-23,North Hub,89,445
+2058,2025-03-05,Riverside Centre,48,144
+2059,2025-02-01,Riverside Centre,85,340
+2060,2025-01-18,Mobile Unit,28,112
+2061,2025-07-15,Riverside Centre,41,205
+2062,2025-04-13,Mobile Unit,16,48
+2063,2025-05-22,Riverside Centre,58,232
+2064,2025-03-31,East Community Hall,66,132
+2065,2025-01-09,East Community Hall,44,176
+2066,2025-02-27,Riverside Centre,13,26
+2067,2025-02-14,Mobile Unit,21,63
+2068,2025-02-25,Riverside Centre,35,70
+2069,2025-07-02,Mobile Unit,22,44
+2070,2025-06-13,Mobile Unit,79,395
+2071,2025-08-16,East Community Hall,68,136
+2072,2025-04-30,Riverside Centre,15,45
+2073,2025-03-10,Mobile Unit,72,144
+2074,2025-07-19,Riverside Centre,65,195
+2075,2025-02-14,East Community Hall,37,74
+2076,2025-06-20,North Hub,33,99
+2077,2025-06-17,East Community Hall,15,75
+2078,2025-04-20,Mobile Unit,63,315
+2079,2025-07-08,East Community Hall,88,176
+2080,2025-05-09,East Community Hall,87,348
+2081,2025-05-05,Riverside Centre,88,176
+2082,2025-08-16,Mobile Unit,66,330
+2083,2025-03-30,Mobile Unit,74,296
+2084,2025-01-25,Riverside Centre,41,164
+2085,2025-09-03,Riverside Centre,54,216
+2086,2025-03-10,North Hub,79,395
+2087,2025-01-17,Riverside Centre,73,219
+2088,2025-03-03,Riverside Centre,28,56
+2089,2025-06-04,Mobile Unit,49,147
+2090,2025-07-21,East Community Hall,55,220
+2091,2025-02-21,Riverside Centre,85,425
+2092,2025-07-01,Riverside Centre,62,248
+2093,2025-04-13,Mobile Unit,69,138
+2094,2025-07-15,Riverside Centre,58,232
+2095,2025-03-18,North Hub,47,188
+2096,2025-02-11,Mobile Unit,65,195
+2097,2025-09-04,East Community Hall,14,70
+2098,2025-08-11,Riverside Centre,69,207
+2099,2025-07-23,East Community Hall,89,178
+2100,2025-06-15,East Community Hall,84,420
+2101,2025-03-08,Mobile Unit,52,260
+2102,2025-04-06,Mobile Unit,73,365
+2103,2025-02-17,Riverside Centre,15,30
+2104,2025-02-06,Mobile Unit,22,66
+2105,2025-06-01,East Community Hall,27,54
+2106,2025-05-14,Mobile Unit,72,216
+2107,2025-07-11,East Community Hall,84,252
+2108,2025-06-30,Riverside Centre,71,284
+2109,2025-07-26,North Hub,69,138
+2110,2025-06-08,East Community Hall,72,288
+2111,2025-03-15,Mobile Unit,27,54
+2112,2025-07-29,East Community Hall,63,126
+2113,2025-03-14,North Hub,66,198
+2114,2025-03-15,North Hub,79,316
+2115,2025-04-25,North Hub,31,62
+2116,2025-03-07,Mobile Unit,25,75
+2117,2025-04-21,Mobile Unit,20,80
+2118,2025-03-09,East Community Hall,16,80
+2119,2025-01-16,North Hub,41,205
+2120,2025-06-11,Riverside Centre,89,445
+2121,2025-07-19,East Community Hall,38,76
+2122,2025-06-19,North Hub,75,225
+2123,2025-06-27,Riverside Centre,18,54
+2124,2025-02-22,Riverside Centre,78,390
+2125,2025-02-18,North Hub,89,178
+2126,2025-07-24,Riverside Centre,65,195
+2127,2025-08-02,Riverside Centre,71,142
+2128,2025-08-05,North Hub,81,162
+2129,2025-04-28,Riverside Centre,64,320
+2130,2025-01-31,Riverside Centre,52,208
+2131,2025-01-02,Riverside Centre,71,355
+2132,2025-08-15,East Community Hall,42,210
+2133,2025-02-21,East Community Hall,10,40
+2134,2025-09-04,East Community Hall,64,320
+2135,2025-05-10,North Hub,50,250
+2136,2025-02-11,Riverside Centre,51,255
+2137,2025-05-25,North Hub,12,36
+2138,2025-04-01,East Community Hall,63,189
+2139,2025-02-07,Mobile Unit,85,425
+2140,2025-05-21,East Community Hall,68,204
+2141,2025-07-28,Riverside Centre,25,75
+2142,2025-02-03,Mobile Unit,33,99
+2143,2025-04-06,Mobile Unit,81,162
+2144,2025-06-25,Riverside Centre,80,320
+2145,2025-03-24,North Hub,20,60
+2146,2025-03-04,Riverside Centre,21,63
+2147,2025-02-22,Mobile Unit,33,165
+2148,2025-03-18,East Community Hall,23,92
+2149,2025-05-21,Riverside Centre,32,96
+2150,2025-01-19,Riverside Centre,75,300
+2151,2025-04-09,North Hub,61,305
+2152,2025-03-12,North Hub,52,156
+2153,2025-05-25,Riverside Centre,19,38
+2154,2025-02-18,North Hub,71,213
+2155,2025-02-18,Mobile Unit,66,264
+2156,2025-02-02,East Community Hall,69,207
+2157,2025-01-30,East Community Hall,77,308
+2158,2025-06-10,Mobile Unit,50,150
+2159,2025-08-08,North Hub,56,280
+2160,2025-01-28,North Hub,82,164
+2161,2025-08-31,East Community Hall,34,136
+2162,2025-08-29,North Hub,51,204
+2163,2025-03-18,North Hub,33,66
+2164,2025-03-17,Mobile Unit,21,63
+2165,2025-03-21,East Community Hall,28,56
+2166,2025-07-25,East Community Hall,63,315
+2167,2025-06-03,East Community Hall,63,315
+2168,2025-08-29,Mobile Unit,80,240
+2169,2025-04-29,Riverside Centre,75,150
+2170,2025-05-25,Mobile Unit,52,104
+2171,2025-05-13,North Hub,74,222
+2172,2025-03-18,Riverside Centre,43,215
+2173,2025-01-29,Mobile Unit,53,159
+2174,2025-07-14,Riverside Centre,28,56
+2175,2025-07-28,Mobile Unit,44,132
+2176,2025-01-20,Mobile Unit,89,178
+2177,2025-03-13,East Community Hall,51,255
+2178,2025-07-23,Mobile Unit,85,170
+2179,2025-04-03,East Community Hall,27,54
+2180,2025-08-29,Riverside Centre,73,292
+2181,2025-07-13,East Community Hall,55,110
+2182,2025-08-11,East Community Hall,16,64
+2183,2025-05-07,Riverside Centre,18,36
+2184,2025-08-21,Riverside Centre,62,248
+2185,2025-04-20,North Hub,57,114
+2186,2025-06-18,East Community Hall,58,116
+2187,2025-04-20,North Hub,52,104
+2188,2025-03-03,Riverside Centre,22,44
+2189,2025-08-31,North Hub,50,150
+2190,2025-05-15,Riverside Centre,31,62
+2191,2025-02-22,Riverside Centre,24,120
+2192,2025-09-06,Mobile Unit,30,150
+2193,2025-09-01,Mobile Unit,28,84
+2194,2025-08-26,North Hub,35,70
+2195,2025-03-28,North Hub,70,350
+2196,2025-07-15,Riverside Centre,75,375
+2197,2025-06-01,East Community Hall,28,140
+2198,2025-08-17,East Community Hall,40,80
+2199,2025-06-30,Riverside Centre,74,222
+2200,2025-03-08,North Hub,60,120
+2201,2025-04-13,North Hub,33,165
+2202,2025-02-19,East Community Hall,24,120
+2203,2025-03-01,East Community Hall,78,156
+2204,2025-02-16,Mobile Unit,64,256
+2205,2025-02-11,Mobile Unit,55,220
+2206,2025-08-09,East Community Hall,27,81
+2207,2025-04-02,North Hub,58,290
+2208,2025-07-12,North Hub,48,144
+2209,2025-07-22,Mobile Unit,86,430
+2210,2025-03-23,East Community Hall,49,98
+2211,2025-06-20,East Community Hall,50,100
+2212,2025-07-03,East Community Hall,81,162
+2213,2025-05-01,Riverside Centre,38,76
+2214,2025-05-24,North Hub,85,255
+2215,2025-02-08,Mobile Unit,49,147
+2216,2025-01-28,Riverside Centre,53,265
+2217,2025-07-21,Riverside Centre,53,159
+2218,2025-03-15,North Hub,45,90
+2219,2025-06-14,Mobile Unit,65,195
+2220,2025-07-25,Mobile Unit,44,132
+2221,2025-07-01,Mobile Unit,31,155
+2222,2025-03-27,Mobile Unit,88,176
+2223,2025-01-22,Riverside Centre,36,108
+2224,2025-01-21,Mobile Unit,88,440
+2225,2025-09-01,Riverside Centre,89,445
+2226,2025-03-30,East Community Hall,71,213
+2227,2025-02-17,Riverside Centre,42,168
+2228,2025-07-17,East Community Hall,88,352
+2229,2025-03-02,North Hub,25,75
+2230,2025-08-28,Riverside Centre,81,243
+2231,2025-09-05,Mobile Unit,69,276
+2232,2025-07-12,Mobile Unit,60,180
+2233,2025-07-30,Riverside Centre,29,116
+2234,2025-02-10,East Community Hall,24,120
+2235,2025-01-13,Mobile Unit,87,348
+2236,2025-04-09,North Hub,60,180
+2237,2025-06-07,North Hub,44,132
+2238,2025-07-12,East Community Hall,80,320
+2239,2025-01-13,East Community Hall,38,152
+2240,2025-04-23,North Hub,62,124
+2241,2025-03-10,North Hub,27,54
+2242,2025-04-11,Mobile Unit,77,385
+2243,2025-06-30,North Hub,28,112
+2244,2025-05-06,Riverside Centre,49,147
+2245,2025-08-21,North Hub,62,186
+2246,2025-04-30,Mobile Unit,80,400
+2247,2025-05-03,North Hub,53,212
+2248,2025-02-17,North Hub,56,168
+2249,2025-09-03,East Community Hall,84,420
+2250,2025-03-30,East Community Hall,43,129
+2251,2025-08-19,Riverside Centre,50,200
+2252,2025-03-19,North Hub,88,176
+2253,2025-01-20,North Hub,70,350
+2254,2025-08-02,East Community Hall,52,208
+2255,2025-04-18,Mobile Unit,89,267
+2256,2025-06-24,Riverside Centre,66,330
+2257,2025-06-01,Mobile Unit,43,86
+2258,2025-03-29,North Hub,48,192
+2259,2025-03-16,Mobile Unit,56,280
+2260,2025-07-30,Riverside Centre,19,38
+2261,2025-01-24,East Community Hall,42,210
+2262,2025-02-20,East Community Hall,60,300
+2263,2025-07-24,North Hub,45,180
+2264,2025-05-17,Mobile Unit,53,212
+2265,2025-05-14,North Hub,33,132
+2266,2025-04-03,Mobile Unit,13,26
+2267,2025-09-02,East Community Hall,37,148
+2268,2025-02-09,North Hub,42,126
+2269,2025-09-02,North Hub,51,255
+2270,2025-08-26,North Hub,77,231
+2271,2025-03-03,North Hub,76,228
+2272,2025-01-20,East Community Hall,84,168
+2273,2025-02-07,Mobile Unit,42,210
+2274,2025-01-15,Mobile Unit,74,222
+2275,2025-04-06,East Community Hall,39,195
+2276,2025-06-18,East Community Hall,73,146
+2277,2025-02-27,Mobile Unit,11,22
+2278,2025-05-24,East Community Hall,84,252
+2279,2025-07-29,Mobile Unit,24,72
+2280,2025-02-24,East Community Hall,44,88
+2281,2025-01-21,East Community Hall,40,80
+2282,2025-02-23,North Hub,47,188
+2283,2025-08-14,North Hub,61,244
+2284,2025-01-19,Mobile Unit,17,34
+2285,2025-08-20,Riverside Centre,66,330
+2286,2025-07-21,Mobile Unit,74,222
+2287,2025-03-12,Mobile Unit,67,134
+2288,2025-05-13,Riverside Centre,14,70
+2289,2025-05-29,East Community Hall,84,336
+2290,2025-06-24,East Community Hall,52,156
+2291,2025-05-08,East Community Hall,33,99
+2292,2025-03-03,Riverside Centre,79,316
+2293,2025-02-14,Riverside Centre,44,132
+2294,2025-03-10,North Hub,47,188
+2295,2025-01-24,East Community Hall,82,164
+2296,2025-08-18,Riverside Centre,34,68
+2297,2025-01-10,North Hub,21,105
+2298,2025-06-19,North Hub,64,192
+2299,2025-08-25,North Hub,16,32
+2300,2025-07-27,Riverside Centre,44,132
+2301,2025-07-06,North Hub,60,240
+2302,2025-04-01,Mobile Unit,28,140
+2303,2025-06-21,Mobile Unit,73,146
+2304,2025-07-09,East Community Hall,84,252
+2305,2025-04-11,East Community Hall,73,365
+2306,2025-01-02,East Community Hall,52,208
+2307,2025-01-29,Mobile Unit,63,315
+2308,2025-06-30,Mobile Unit,72,288
+2309,2025-06-27,East Community Hall,40,120
+2310,2025-01-13,North Hub,17,34
+2311,2025-01-04,East Community Hall,64,320
+2312,2025-07-01,East Community Hall,46,92
+2313,2025-06-02,Mobile Unit,13,26
+2314,2025-03-23,Mobile Unit,84,336
+2315,2025-06-02,Mobile Unit,71,284
+2316,2025-05-01,Riverside Centre,76,304
+2317,2025-07-20,East Community Hall,73,146
+2318,2025-05-15,North Hub,47,188
+2319,2025-07-15,East Community Hall,82,164
+2320,2025-04-24,East Community Hall,62,248
+2321,2025-06-27,East Community Hall,22,88
+2322,2025-06-25,Mobile Unit,23,115
+2323,2025-02-28,North Hub,46,230
+2324,2025-01-17,Mobile Unit,66,330
+2325,2025-02-25,Riverside Centre,67,335
+2326,2025-03-30,East Community Hall,37,111
+2327,2025-08-12,Mobile Unit,62,124
+2328,2025-02-08,Riverside Centre,43,172
+2329,2025-08-06,East Community Hall,53,212
+2330,2025-05-16,Riverside Centre,24,120
+2331,2025-08-19,East Community Hall,73,292
+2332,2025-09-06,Mobile Unit,46,138
+2333,2025-06-14,Riverside Centre,87,261
+2334,2025-04-20,North Hub,54,270
+2335,2025-05-13,East Community Hall,74,370
+2336,2025-04-10,North Hub,56,280
+2337,2025-08-11,Mobile Unit,14,42
+2338,2025-01-19,Riverside Centre,29,116
+2339,2025-03-29,Riverside Centre,78,156
+2340,2025-01-16,Riverside Centre,56,112
+2341,2025-02-11,Mobile Unit,47,141
+2342,2025-01-13,Mobile Unit,44,132
+2343,2025-08-12,East Community Hall,53,159
+2344,2025-05-25,North Hub,39,117
+2345,2025-02-22,North Hub,13,26
+2346,2025-05-13,North Hub,76,304
+2347,2025-08-17,East Community Hall,28,56
+2348,2025-07-20,East Community Hall,74,296
+2349,2025-02-19,Riverside Centre,72,288
+2350,2025-01-01,Riverside Centre,35,70
+2351,2025-06-25,Mobile Unit,50,250
+2352,2025-07-19,North Hub,54,108
+2353,2025-07-02,East Community Hall,72,144
+2354,2025-05-26,Mobile Unit,32,128
+2355,2025-03-09,East Community Hall,38,76
+2356,2025-04-27,Mobile Unit,86,344
+2357,2025-01-11,East Community Hall,83,332
+2358,2025-06-29,Mobile Unit,65,130
+2359,2025-03-23,Mobile Unit,26,130
+2360,2025-01-23,North Hub,20,100
+2361,2025-08-15,East Community Hall,70,280
+2362,2025-08-04,Mobile Unit,47,235
+2363,2025-07-22,Riverside Centre,42,210
+2364,2025-03-22,Riverside Centre,24,120
+2365,2025-05-03,East Community Hall,73,365
+2366,2025-09-05,Riverside Centre,11,55
+2367,2025-03-27,East Community Hall,43,86
+2368,2025-07-03,East Community Hall,13,65
+2369,2025-02-23,North Hub,37,185
+2370,2025-06-09,Mobile Unit,31,124
+2371,2025-02-21,North Hub,29,58
+2372,2025-06-29,East Community Hall,74,370
+2373,2025-02-05,Riverside Centre,61,244
+2374,2025-07-19,Riverside Centre,20,80
+2375,2025-08-17,Mobile Unit,31,93
+2376,2025-03-06,Riverside Centre,83,332
+2377,2025-01-15,Mobile Unit,38,114
+2378,2025-06-29,Mobile Unit,25,100
+2379,2025-04-23,North Hub,54,162
+2380,2025-02-03,Mobile Unit,34,136
+2381,2025-04-23,North Hub,50,250
+2382,2025-06-11,North Hub,61,183
+2383,2025-05-01,Mobile Unit,89,445
+2384,2025-02-25,Mobile Unit,87,261
+2385,2025-05-20,East Community Hall,52,156
+2386,2025-08-13,Mobile Unit,21,105
+2387,2025-02-23,North Hub,86,172
+2388,2025-07-12,Mobile Unit,85,340
+2389,2025-06-24,Mobile Unit,11,22
+2390,2025-01-30,East Community Hall,31,124
+2391,2025-04-27,Mobile Unit,88,440
+2392,2025-05-29,North Hub,40,200
+2393,2025-06-20,East Community Hall,83,166
+2394,2025-04-02,North Hub,88,440
+2395,2025-03-19,Riverside Centre,88,176
+2396,2025-03-31,East Community Hall,27,54
+2397,2025-07-02,Mobile Unit,89,267
+2398,2025-06-13,North Hub,22,44
+2399,2025-02-24,East Community Hall,75,225
+2400,2025-04-21,North Hub,67,134
+2401,2025-01-25,North Hub,82,410
+2402,2025-08-01,Riverside Centre,13,39
+2403,2025-01-04,East Community Hall,39,156
+2404,2025-07-23,East Community Hall,30,150
+2405,2025-07-29,Mobile Unit,73,219
+2406,2025-06-08,East Community Hall,45,135
+2407,2025-01-22,East Community Hall,70,280
+2408,2025-05-04,Riverside Centre,45,90
+2409,2025-03-23,North Hub,46,92
+2410,2025-07-16,East Community Hall,68,272
+2411,2025-01-07,North Hub,15,75
+2412,2025-04-20,Mobile Unit,88,264
+2413,2025-08-18,North Hub,66,198
+2414,2025-06-23,East Community Hall,41,164
+2415,2025-01-24,Mobile Unit,76,304
+2416,2025-09-04,East Community Hall,34,170
+2417,2025-06-16,Mobile Unit,66,330
+2418,2025-08-27,North Hub,51,255
+2419,2025-06-25,Mobile Unit,11,33
+2420,2025-01-29,Mobile Unit,87,261
+2421,2025-03-06,East Community Hall,39,78
+2422,2025-04-18,East Community Hall,64,256
+2423,2025-03-03,Mobile Unit,14,42
+2424,2025-06-02,Mobile Unit,30,90
+2425,2025-01-25,Mobile Unit,84,168
+2426,2025-05-07,Mobile Unit,34,68
+2427,2025-08-11,East Community Hall,65,260
+2428,2025-01-19,North Hub,71,142
+2429,2025-06-19,East Community Hall,75,150
+2430,2025-03-20,North Hub,15,30
+2431,2025-06-19,Riverside Centre,71,213
+2432,2025-01-12,North Hub,65,130
+2433,2025-01-12,Riverside Centre,32,160
+2434,2025-05-13,Mobile Unit,26,78
+2435,2025-06-29,Mobile Unit,84,336
+2436,2025-08-25,East Community Hall,73,219
+2437,2025-08-24,Mobile Unit,79,237
+2438,2025-06-19,Mobile Unit,17,68
+2439,2025-03-23,East Community Hall,73,219
+2440,2025-05-27,East Community Hall,23,115
+2441,2025-06-07,North Hub,17,34
+2442,2025-01-27,East Community Hall,50,150
+2443,2025-05-12,Riverside Centre,62,124
+2444,2025-02-12,East Community Hall,18,72
+2445,2025-01-09,Riverside Centre,62,248
+2446,2025-01-03,North Hub,76,304
+2447,2025-08-16,Mobile Unit,59,177
+2448,2025-07-25,North Hub,62,310
+2449,2025-02-28,North Hub,89,267
+2450,2025-07-16,East Community Hall,73,365
+2451,2025-08-02,Mobile Unit,67,268
+2452,2025-04-15,East Community Hall,27,108
+2453,2025-01-26,Mobile Unit,29,58
+2454,2025-01-11,Riverside Centre,64,320
+2455,2025-03-22,East Community Hall,55,220
+2456,2025-01-14,East Community Hall,65,260
+2457,2025-02-14,North Hub,59,177
+2458,2025-01-17,Riverside Centre,61,244
+2459,2025-01-29,East Community Hall,79,158
+2460,2025-07-24,Mobile Unit,15,75
+2461,2025-04-05,North Hub,87,174
+2462,2025-02-25,Riverside Centre,82,246
+2463,2025-04-15,East Community Hall,14,56
+2464,2025-03-23,East Community Hall,39,78
+2465,2025-04-30,Riverside Centre,51,204
+2466,2025-04-15,East Community Hall,43,86
+2467,2025-02-10,Mobile Unit,78,312
+2468,2025-05-17,North Hub,17,68
+2469,2025-05-13,Riverside Centre,11,33
+2470,2025-04-05,North Hub,57,228
+2471,2025-07-29,Riverside Centre,63,189
+2472,2025-03-01,East Community Hall,20,60
+2473,2025-01-06,Mobile Unit,68,204
+2474,2025-06-24,Riverside Centre,68,204
+2475,2025-06-28,Riverside Centre,26,130
+2476,2025-07-22,Mobile Unit,14,28
+2477,2025-06-01,Riverside Centre,42,126
+2478,2025-04-24,Mobile Unit,28,140
+2479,2025-06-04,Mobile Unit,80,240
+2480,2025-01-13,Riverside Centre,85,170
+2481,2025-01-12,Mobile Unit,37,185
+2482,2025-05-05,Mobile Unit,10,40
+2483,2025-06-15,North Hub,34,136
+2484,2025-05-31,Riverside Centre,10,40
+2485,2025-07-23,Mobile Unit,18,36
+2486,2025-06-26,North Hub,89,178
+2487,2025-07-24,East Community Hall,81,162
+2488,2025-04-12,Mobile Unit,33,66
+2489,2025-08-24,Riverside Centre,58,232
+2490,2025-06-11,North Hub,25,100
+2491,2025-06-11,North Hub,49,147
+2492,2025-03-12,Riverside Centre,36,108
+2493,2025-06-25,East Community Hall,19,95
+2494,2025-01-13,East Community Hall,52,156
+2495,2025-04-19,North Hub,61,122
+2496,2025-02-26,East Community Hall,24,96
+2497,2025-08-01,Riverside Centre,40,120
+2498,2025-05-22,Riverside Centre,16,32
+2499,2025-07-31,Mobile Unit,37,185
+2500,2025-06-05,East Community Hall,70,280
+2501,2025-05-11,East Community Hall,89,356
+2502,2025-05-17,Riverside Centre,55,110
+2503,2025-03-16,North Hub,34,170
+2504,2025-04-06,Riverside Centre,69,138
+2505,2025-06-21,Mobile Unit,12,24
+2506,2025-05-18,Riverside Centre,38,190
+2507,2025-07-02,East Community Hall,23,69
+2508,2025-01-18,Mobile Unit,67,335
+2509,2025-01-11,East Community Hall,69,345
+2510,2025-01-03,Mobile Unit,72,216
+2511,2025-09-07,Riverside Centre,59,236
+2512,2025-04-24,East Community Hall,54,108
+2513,2025-05-22,Riverside Centre,86,258
+2514,2025-09-04,North Hub,65,325
+2515,2025-01-29,North Hub,48,192
+2516,2025-06-24,North Hub,82,246
+2517,2025-06-10,North Hub,47,94
+2518,2025-06-30,East Community Hall,20,40
+2519,2025-07-05,Riverside Centre,61,183
+2520,2025-04-24,North Hub,25,100
+2521,2025-06-25,Mobile Unit,45,180
+2522,2025-03-06,East Community Hall,84,168
+2523,2025-06-05,Mobile Unit,20,40
+2524,2025-08-11,East Community Hall,29,116
+2525,2025-03-10,East Community Hall,49,147
+2526,2025-07-01,East Community Hall,53,212
+2527,2025-08-14,Mobile Unit,35,175
+2528,2025-07-02,Mobile Unit,44,176
+2529,2025-03-19,Mobile Unit,16,80
+2530,2025-01-13,Mobile Unit,39,117
+2531,2025-01-07,North Hub,83,249
+2532,2025-05-25,Mobile Unit,70,350
+2533,2025-03-06,East Community Hall,12,60
+2534,2025-08-18,Riverside Centre,54,108
+2535,2025-02-10,North Hub,38,152
+2536,2025-07-26,North Hub,68,204
+2537,2025-03-12,Mobile Unit,38,76
+2538,2025-04-12,Mobile Unit,68,340
+2539,2025-04-09,Mobile Unit,32,96
+2540,2025-02-19,North Hub,81,243
+2541,2025-07-09,Riverside Centre,47,141
+2542,2025-04-14,North Hub,22,88
+2543,2025-01-09,Riverside Centre,21,105
+2544,2025-08-29,North Hub,50,150
+2545,2025-08-20,Riverside Centre,39,195
+2546,2025-04-10,North Hub,74,370
+2547,2025-08-22,East Community Hall,64,128
+2548,2025-04-30,Riverside Centre,25,100
+2549,2025-06-20,Riverside Centre,70,280
+2550,2025-02-14,East Community Hall,67,134
+2551,2025-03-11,Riverside Centre,20,60
+2552,2025-06-26,Riverside Centre,42,168
+2553,2025-08-06,Riverside Centre,80,400
+2554,2025-02-09,Riverside Centre,78,390
+2555,2025-06-22,Riverside Centre,16,80
+2556,2025-08-22,Mobile Unit,47,141
+2557,2025-07-05,North Hub,45,135
+2558,2025-08-16,Riverside Centre,81,162
+2559,2025-03-11,East Community Hall,19,76
+2560,2025-05-20,Mobile Unit,27,135
+2561,2025-07-25,North Hub,74,370
+2562,2025-05-07,Riverside Centre,89,178
+2563,2025-01-13,Riverside Centre,33,132
+2564,2025-01-31,Mobile Unit,48,144
+2565,2025-02-06,East Community Hall,11,33
+2566,2025-01-28,North Hub,57,228
+2567,2025-01-27,Mobile Unit,37,185
+2568,2025-01-12,Riverside Centre,41,205
+2569,2025-03-04,Riverside Centre,16,64
+2570,2025-05-02,Riverside Centre,14,56
+2571,2025-06-30,Mobile Unit,29,145
+2572,2025-04-02,North Hub,68,136
+2573,2025-08-08,East Community Hall,15,45
+2574,2025-05-16,North Hub,46,92
+2575,2025-01-21,Riverside Centre,33,132
+2576,2025-04-11,North Hub,72,288
+2577,2025-02-14,Mobile Unit,36,72
+2578,2025-04-05,Riverside Centre,50,100
+2579,2025-01-22,East Community Hall,70,350
+2580,2025-03-26,East Community Hall,32,96
+2581,2025-03-27,Mobile Unit,31,62
+2582,2025-02-12,East Community Hall,64,256
+2583,2025-08-02,Riverside Centre,45,225
+2584,2025-03-23,Mobile Unit,20,100
+2585,2025-08-24,North Hub,73,365
+2586,2025-04-06,North Hub,58,116
+2587,2025-06-14,Mobile Unit,35,70
+2588,2025-08-28,East Community Hall,78,234
+2589,2025-01-23,East Community Hall,42,210
+2590,2025-02-25,North Hub,54,270
+2591,2025-09-02,Mobile Unit,35,70
+2592,2025-02-07,Riverside Centre,47,94
+2593,2025-02-11,Mobile Unit,29,145
+2594,2025-05-19,East Community Hall,43,129
+2595,2025-03-10,Riverside Centre,15,30
+2596,2025-03-21,East Community Hall,35,140
+2597,2025-07-13,East Community Hall,57,228
+2598,2025-05-19,Mobile Unit,81,405
+2599,2025-04-11,North Hub,20,80
+2600,2025-04-27,Riverside Centre,87,435
+2601,2025-01-28,North Hub,33,132
+2602,2025-06-27,Mobile Unit,34,170
+2603,2025-08-06,Riverside Centre,16,48
+2604,2025-07-14,Mobile Unit,88,176
+2605,2025-07-29,North Hub,72,360
+2606,2025-07-06,Mobile Unit,49,147
+2607,2025-08-16,North Hub,56,280
+2608,2025-02-20,East Community Hall,51,255
+2609,2025-03-26,East Community Hall,60,240
+2610,2025-04-09,North Hub,28,140
+2611,2025-03-10,East Community Hall,60,180
+2612,2025-02-16,North Hub,23,92
+2613,2025-01-31,Riverside Centre,18,90
+2614,2025-07-07,East Community Hall,87,174
+2615,2025-08-28,North Hub,54,216
+2616,2025-02-26,Mobile Unit,47,188
+2617,2025-08-11,Riverside Centre,37,111
+2618,2025-08-19,Riverside Centre,70,210
+2619,2025-02-10,Mobile Unit,86,172
+2620,2025-01-19,Riverside Centre,16,48
+2621,2025-05-24,Mobile Unit,84,168
+2622,2025-03-19,Mobile Unit,58,174
+2623,2025-08-09,Mobile Unit,37,74
+2624,2025-04-10,Riverside Centre,78,156
+2625,2025-08-29,Mobile Unit,51,102
+2626,2025-04-02,North Hub,53,159
+2627,2025-02-14,East Community Hall,78,156
+2628,2025-07-15,East Community Hall,78,234
+2629,2025-04-08,Mobile Unit,27,108
+2630,2025-06-21,East Community Hall,75,150
+2631,2025-05-12,Mobile Unit,26,78
+2632,2025-02-14,Mobile Unit,27,81
+2633,2025-08-05,East Community Hall,47,94
+2634,2025-06-12,Riverside Centre,12,24
+2635,2025-08-16,Riverside Centre,38,114
+2636,2025-07-27,Riverside Centre,48,192
+2637,2025-01-24,East Community Hall,43,86
+2638,2025-06-21,Mobile Unit,46,230
+2639,2025-06-24,Riverside Centre,83,249
+2640,2025-01-04,Riverside Centre,67,201
+2641,2025-09-07,East Community Hall,40,80
+2642,2025-05-14,Mobile Unit,54,270
+2643,2025-03-03,Riverside Centre,18,36
+2644,2025-07-24,Mobile Unit,67,201
+2645,2025-02-14,North Hub,14,28
+2646,2025-04-06,Mobile Unit,42,168
+2647,2025-08-17,Riverside Centre,12,36
+2648,2025-05-28,Mobile Unit,63,315
+2649,2025-08-31,Mobile Unit,24,96
+2650,2025-06-30,East Community Hall,75,225
+2651,2025-04-08,Riverside Centre,35,140
+2652,2025-06-17,North Hub,68,272
+2653,2025-02-14,North Hub,16,32
+2654,2025-07-03,North Hub,55,220
+2655,2025-01-09,Riverside Centre,49,245
+2656,2025-02-07,North Hub,22,88
+2657,2025-08-12,Mobile Unit,43,129
+2658,2025-04-14,Mobile Unit,44,132
+2659,2025-08-12,East Community Hall,15,30
+2660,2025-07-17,East Community Hall,25,100
+2661,2025-04-10,Riverside Centre,39,156
+2662,2025-03-15,East Community Hall,24,72
+2663,2025-02-02,Riverside Centre,70,350
+2664,2025-05-09,Mobile Unit,60,300
+2665,2025-04-14,Riverside Centre,15,60
+2666,2025-01-07,Riverside Centre,85,170
+2667,2025-01-17,East Community Hall,68,340
+2668,2025-06-01,East Community Hall,74,222
+2669,2025-07-15,Riverside Centre,51,153
+2670,2025-07-03,East Community Hall,40,80
+2671,2025-03-15,Riverside Centre,55,275
+2672,2025-01-24,East Community Hall,13,65
+2673,2025-05-13,North Hub,15,75
+2674,2025-03-03,East Community Hall,37,74
+2675,2025-08-30,East Community Hall,30,120
+2676,2025-03-11,North Hub,24,120
+2677,2025-03-24,Mobile Unit,84,168
+2678,2025-06-18,Mobile Unit,26,52
+2679,2025-05-13,Mobile Unit,15,45
+2680,2025-08-07,Riverside Centre,19,76
+2681,2025-02-01,East Community Hall,31,124
+2682,2025-08-05,East Community Hall,53,106
+2683,2025-03-20,Mobile Unit,60,180
+2684,2025-06-21,Riverside Centre,79,316
+2685,2025-01-27,Riverside Centre,74,222
+2686,2025-06-25,East Community Hall,54,108
+2687,2025-03-19,Riverside Centre,82,328
+2688,2025-03-01,North Hub,44,176
+2689,2025-07-21,Mobile Unit,86,172
+2690,2025-04-18,Mobile Unit,30,90
+2691,2025-06-27,Mobile Unit,34,170
+2692,2025-08-18,Riverside Centre,69,138
+2693,2025-04-10,Mobile Unit,13,65
+2694,2025-08-07,Mobile Unit,20,80
+2695,2025-08-03,North Hub,38,152
+2696,2025-02-27,North Hub,86,344
+2697,2025-03-12,North Hub,51,153
+2698,2025-01-30,North Hub,65,325
+2699,2025-04-23,Riverside Centre,32,160
+2700,2025-08-10,Riverside Centre,32,64
+2701,2025-03-22,North Hub,20,80
+2702,2025-06-12,East Community Hall,74,296
+2703,2025-04-15,Riverside Centre,78,156
+2704,2025-08-20,North Hub,62,124
+2705,2025-03-04,Mobile Unit,55,165
+2706,2025-03-15,Mobile Unit,74,296
+2707,2025-01-13,East Community Hall,39,195
+2708,2025-06-21,East Community Hall,79,158
+2709,2025-08-23,North Hub,42,126
+2710,2025-05-12,North Hub,78,390
+2711,2025-02-12,Mobile Unit,21,105
+2712,2025-01-05,North Hub,14,56
+2713,2025-09-01,Riverside Centre,82,328
+2714,2025-05-21,North Hub,12,48
+2715,2025-01-15,Riverside Centre,81,243
+2716,2025-01-13,Mobile Unit,28,140
+2717,2025-03-06,North Hub,25,75
+2718,2025-06-28,East Community Hall,55,110
+2719,2025-04-22,Riverside Centre,53,265
+2720,2025-07-23,Mobile Unit,36,144
+2721,2025-02-10,East Community Hall,60,120
+2722,2025-03-04,Riverside Centre,43,129
+2723,2025-07-24,North Hub,51,102
+2724,2025-02-27,Mobile Unit,47,188
+2725,2025-04-06,East Community Hall,42,84
+2726,2025-04-16,Mobile Unit,40,80
+2727,2025-06-29,Riverside Centre,30,60
+2728,2025-01-23,North Hub,23,69
+2729,2025-05-28,Riverside Centre,85,170
+2730,2025-06-16,Riverside Centre,19,95
+2731,2025-02-26,East Community Hall,86,258
+2732,2025-01-22,North Hub,54,108
+2733,2025-02-11,North Hub,35,175
+2734,2025-04-18,Riverside Centre,57,228
+2735,2025-05-25,North Hub,58,116
+2736,2025-05-30,Riverside Centre,50,250
+2737,2025-08-24,North Hub,75,375
+2738,2025-07-12,Riverside Centre,53,212
+2739,2025-06-17,East Community Hall,68,272
+2740,2025-02-06,Riverside Centre,44,132
+2741,2025-04-27,Riverside Centre,63,126
+2742,2025-06-06,East Community Hall,68,340
+2743,2025-03-12,East Community Hall,17,51
+2744,2025-07-12,North Hub,42,168
+2745,2025-08-19,Riverside Centre,60,180
+2746,2025-01-18,Mobile Unit,36,144
+2747,2025-08-09,Mobile Unit,81,243
+2748,2025-03-13,East Community Hall,39,195
+2749,2025-07-13,Riverside Centre,60,120
+2750,2025-05-05,East Community Hall,23,92
+2751,2025-08-24,East Community Hall,50,200
+2752,2025-09-02,Riverside Centre,43,86
+2753,2025-03-09,North Hub,30,60
+2754,2025-04-03,East Community Hall,15,30
+2755,2025-06-05,Mobile Unit,73,146
+2756,2025-07-03,Riverside Centre,32,128
+2757,2025-01-23,East Community Hall,21,42
+2758,2025-02-19,North Hub,51,153
+2759,2025-04-27,North Hub,63,189
+2760,2025-05-04,Riverside Centre,46,92
+2761,2025-01-12,Riverside Centre,35,70
+2762,2025-01-20,Riverside Centre,25,100
+2763,2025-04-05,North Hub,25,50
+2764,2025-04-11,East Community Hall,50,250
+2765,2025-08-28,East Community Hall,81,243
+2766,2025-04-08,East Community Hall,39,156
+2767,2025-06-17,Riverside Centre,33,165
+2768,2025-01-29,North Hub,28,140
+2769,2025-06-18,East Community Hall,80,240
+2770,2025-06-09,Riverside Centre,25,100
+2771,2025-07-27,North Hub,35,175
+2772,2025-08-03,North Hub,78,234
+2773,2025-03-16,East Community Hall,18,72
+2774,2025-02-19,East Community Hall,34,102
+2775,2025-06-09,East Community Hall,58,290
+2776,2025-04-23,Riverside Centre,36,180
+2777,2025-03-06,Mobile Unit,18,72
+2778,2025-04-03,Mobile Unit,58,116
+2779,2025-06-25,East Community Hall,87,174
+2780,2025-02-04,East Community Hall,18,36
+2781,2025-01-25,East Community Hall,62,186
+2782,2025-08-27,Mobile Unit,35,105
+2783,2025-06-27,North Hub,69,276
+2784,2025-07-15,North Hub,12,36
+2785,2025-06-06,Riverside Centre,42,168
+2786,2025-08-04,Mobile Unit,32,128
+2787,2025-03-19,North Hub,11,33
+2788,2025-02-20,North Hub,88,264
+2789,2025-03-15,Mobile Unit,27,108
+2790,2025-02-09,East Community Hall,42,126
+2791,2025-01-24,North Hub,46,92
+2792,2025-03-09,Mobile Unit,43,86
+2793,2025-06-14,East Community Hall,35,70
+2794,2025-06-21,Riverside Centre,26,52
+2795,2025-04-09,Mobile Unit,32,160
+2796,2025-08-24,Mobile Unit,68,136
+2797,2025-03-03,East Community Hall,78,156
+2798,2025-08-15,East Community Hall,52,156
+2799,2025-04-04,North Hub,87,348
+2800,2025-01-26,North Hub,88,264
+2801,2025-05-21,North Hub,79,237
+2802,2025-04-12,Riverside Centre,50,250
+2803,2025-04-23,East Community Hall,84,252
+2804,2025-06-15,Riverside Centre,78,390
+2805,2025-06-17,North Hub,85,425
+2806,2025-01-24,Riverside Centre,59,295
+2807,2025-01-25,Mobile Unit,24,72
+2808,2025-02-28,Mobile Unit,34,170
+2809,2025-08-18,North Hub,19,57
+2810,2025-01-20,East Community Hall,29,145
+2811,2025-02-10,North Hub,56,280
+2812,2025-06-14,East Community Hall,35,70
+2813,2025-04-12,Mobile Unit,64,320
+2814,2025-05-30,Riverside Centre,45,225
+2815,2025-08-23,Riverside Centre,39,195
+2816,2025-02-02,East Community Hall,75,300
+2817,2025-07-22,North Hub,76,380
+2818,2025-02-17,North Hub,66,330
+2819,2025-05-20,Riverside Centre,39,78
+2820,2025-07-01,North Hub,17,68
+2821,2025-05-16,Riverside Centre,54,216
+2822,2025-08-01,East Community Hall,54,270
+2823,2025-03-28,North Hub,28,56
+2824,2025-08-22,Mobile Unit,82,164
+2825,2025-04-18,North Hub,67,201
+2826,2025-05-11,Riverside Centre,36,144
+2827,2025-05-06,Mobile Unit,50,100
+2828,2025-05-08,North Hub,88,176
+2829,2025-07-31,North Hub,18,90
+2830,2025-04-10,North Hub,12,36
+2831,2025-08-24,East Community Hall,43,86
+2832,2025-02-11,East Community Hall,86,430
+2833,2025-08-04,North Hub,70,210
+2834,2025-04-18,Mobile Unit,27,108
+2835,2025-04-22,North Hub,86,258
+2836,2025-04-06,Mobile Unit,32,64
+2837,2025-06-28,East Community Hall,38,152
+2838,2025-03-20,Riverside Centre,44,176
+2839,2025-07-21,North Hub,27,54
+2840,2025-04-06,North Hub,74,222
+2841,2025-05-06,East Community Hall,75,150
+2842,2025-02-07,East Community Hall,59,118
+2843,2025-06-17,Riverside Centre,29,145
+2844,2025-01-21,Riverside Centre,65,325
+2845,2025-05-06,Mobile Unit,58,290
+2846,2025-02-13,Riverside Centre,61,244
+2847,2025-02-11,North Hub,73,365
+2848,2025-07-09,North Hub,48,240
+2849,2025-05-23,North Hub,73,219
+2850,2025-07-23,East Community Hall,81,162
+2851,2025-08-17,North Hub,54,162
+2852,2025-02-28,East Community Hall,49,147
+2853,2025-06-08,North Hub,22,110
+2854,2025-04-14,East Community Hall,77,231
+2855,2025-04-06,East Community Hall,36,144
+2856,2025-05-17,Mobile Unit,46,230
+2857,2025-02-13,Riverside Centre,34,68
+2858,2025-01-22,Mobile Unit,47,141
+2859,2025-04-28,North Hub,26,52
+2860,2025-04-11,Mobile Unit,45,90
+2861,2025-08-05,North Hub,67,134
+2862,2025-08-11,Riverside Centre,46,230
+2863,2025-04-16,Mobile Unit,83,249
+2864,2025-09-04,Riverside Centre,43,215
+2865,2025-07-03,East Community Hall,50,150
+2866,2025-02-17,North Hub,41,123
+2867,2025-04-03,North Hub,76,152
+2868,2025-07-22,Riverside Centre,48,192
+2869,2025-05-20,Mobile Unit,47,188
+2870,2025-02-01,Riverside Centre,56,168
+2871,2025-04-15,Mobile Unit,50,250
+2872,2025-02-09,East Community Hall,88,440
+2873,2025-05-28,Riverside Centre,56,280
+2874,2025-04-13,North Hub,65,325
+2875,2025-09-02,Mobile Unit,12,60
+2876,2025-08-28,East Community Hall,38,76
+2877,2025-08-31,North Hub,12,48
+2878,2025-03-27,Mobile Unit,47,235
+2879,2025-04-29,East Community Hall,67,134
+2880,2025-07-26,East Community Hall,47,235
+2881,2025-02-08,Riverside Centre,22,44
+2882,2025-05-10,North Hub,40,200
+2883,2025-03-21,Mobile Unit,70,210
+2884,2025-01-20,Riverside Centre,15,30
+2885,2025-07-05,Riverside Centre,75,150
+2886,2025-07-23,East Community Hall,35,70
+2887,2025-01-06,North Hub,79,237
+2888,2025-03-05,Riverside Centre,22,44
+2889,2025-03-12,East Community Hall,28,112
+2890,2025-01-30,North Hub,54,270
+2891,2025-05-06,Mobile Unit,72,144
+2892,2025-01-19,Mobile Unit,89,267
+2893,2025-02-17,East Community Hall,24,48
+2894,2025-02-19,Mobile Unit,57,171
+2895,2025-01-06,Mobile Unit,87,174
+2896,2025-08-19,Mobile Unit,68,136
+2897,2025-03-12,East Community Hall,33,165
+2898,2025-04-30,North Hub,24,72
+2899,2025-01-06,East Community Hall,64,256
+2900,2025-04-10,East Community Hall,27,81
+2901,2025-02-01,Mobile Unit,89,356
+2902,2025-05-11,Mobile Unit,11,44
+2903,2025-09-02,Riverside Centre,16,48
+2904,2025-07-25,Mobile Unit,61,244
+2905,2025-08-29,North Hub,42,210
+2906,2025-07-12,Mobile Unit,64,256
+2907,2025-04-22,Mobile Unit,39,156
+2908,2025-08-20,North Hub,51,153
+2909,2025-08-26,Riverside Centre,51,204
+2910,2025-08-14,Riverside Centre,26,78
+2911,2025-07-13,East Community Hall,84,336
+2912,2025-05-24,Riverside Centre,18,90
+2913,2025-05-17,North Hub,13,39
+2914,2025-07-06,East Community Hall,30,90
+2915,2025-04-30,North Hub,60,180
+2916,2025-07-22,Riverside Centre,33,132
+2917,2025-07-22,Mobile Unit,60,300
+2918,2025-03-03,East Community Hall,31,124
+2919,2025-02-23,Mobile Unit,35,70
+2920,2025-07-22,East Community Hall,20,100
+2921,2025-07-10,North Hub,49,147
+2922,2025-05-15,East Community Hall,11,22
+2923,2025-05-24,North Hub,85,425
+2924,2025-01-28,East Community Hall,21,63
+2925,2025-04-03,Mobile Unit,28,140
+2926,2025-05-27,North Hub,49,98
+2927,2025-03-06,Mobile Unit,78,156
+2928,2025-04-04,North Hub,19,76
+2929,2025-01-08,Mobile Unit,82,164
+2930,2025-07-09,Mobile Unit,37,148
+2931,2025-03-07,Riverside Centre,76,152
+2932,2025-01-04,East Community Hall,78,156
+2933,2025-08-26,East Community Hall,89,178
+2934,2025-07-17,East Community Hall,80,240
+2935,2025-01-25,Mobile Unit,61,122
+2936,2025-04-16,North Hub,86,172
+2937,2025-06-03,East Community Hall,30,60
+2938,2025-04-19,Mobile Unit,62,248
+2939,2025-08-23,Riverside Centre,89,178
+2940,2025-07-19,North Hub,56,280
+2941,2025-01-10,North Hub,78,234
+2942,2025-04-18,Riverside Centre,39,78
+2943,2025-04-07,North Hub,52,156
+2944,2025-05-08,Mobile Unit,54,108
+2945,2025-03-31,East Community Hall,41,82
+2946,2025-02-17,East Community Hall,23,69
+2947,2025-01-16,North Hub,79,316
+2948,2025-04-04,Mobile Unit,34,68
+2949,2025-07-10,Riverside Centre,27,108
+2950,2025-02-03,North Hub,32,128
+2951,2025-06-13,Mobile Unit,17,51
+2952,2025-08-29,Mobile Unit,36,108
+2953,2025-07-29,Mobile Unit,70,350
+2954,2025-04-06,Riverside Centre,52,104
+2955,2025-03-20,Mobile Unit,63,252
+2956,2025-04-06,Mobile Unit,50,100
+2957,2025-07-29,Riverside Centre,39,117
+2958,2025-02-21,East Community Hall,36,72
+2959,2025-03-10,North Hub,75,150
+2960,2025-05-05,East Community Hall,75,150
+2961,2025-07-12,Riverside Centre,36,180
+2962,2025-05-06,Riverside Centre,26,52
+2963,2025-08-12,Riverside Centre,57,114
+2964,2025-03-18,East Community Hall,48,144
+2965,2025-04-09,East Community Hall,17,51
+2966,2025-02-01,Mobile Unit,54,270
+2967,2025-06-16,Mobile Unit,33,66
+2968,2025-04-02,East Community Hall,55,110
+2969,2025-03-26,Mobile Unit,80,400
+2970,2025-08-10,East Community Hall,86,258
+2971,2025-06-10,Mobile Unit,82,410
+2972,2025-06-30,East Community Hall,77,231
+2973,2025-01-04,Mobile Unit,20,80
+2974,2025-04-27,East Community Hall,66,264
+2975,2025-02-07,East Community Hall,39,117
+2976,2025-08-21,Riverside Centre,85,425
+2977,2025-03-20,North Hub,30,150
+2978,2025-06-19,North Hub,18,90
+2979,2025-07-29,Riverside Centre,48,192
+2980,2025-03-21,Mobile Unit,30,90
+2981,2025-01-15,North Hub,52,260
+2982,2025-07-12,North Hub,59,295
+2983,2025-06-22,North Hub,57,171
+2984,2025-06-19,North Hub,84,168
+2985,2025-04-08,East Community Hall,43,129
+2986,2025-07-11,East Community Hall,32,160
+2987,2025-06-17,Mobile Unit,49,196
+2988,2025-08-21,East Community Hall,80,240
+2989,2025-01-23,North Hub,32,128
+2990,2025-08-19,Mobile Unit,50,200
+2991,2025-05-19,North Hub,59,118
+2992,2025-05-01,North Hub,10,40
+2993,2025-03-14,Mobile Unit,23,92
+2994,2025-01-09,East Community Hall,63,189
+2995,2025-05-06,Mobile Unit,46,92
+2996,2025-04-25,Mobile Unit,76,304
+2997,2025-03-12,North Hub,69,138
+2998,2025-08-17,Riverside Centre,69,345
+2999,2025-01-06,Riverside Centre,14,42

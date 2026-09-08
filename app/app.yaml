@@ -1,0 +1,7 @@
+command: ["streamlit", "run", "app.py"]
+
+env:
+  # Bind a SQL warehouse resource named "sql-warehouse" when you create the app
+  # (Apps UI → Edit → Resources → SQL warehouse). It exposes the warehouse id here.
+  - name: DATABRICKS_WAREHOUSE_ID
+    valueFrom: sql-warehouse
