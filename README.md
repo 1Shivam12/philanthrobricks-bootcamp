@@ -6,6 +6,8 @@ the fictional **Riverside Food Bank** — that threads through all six modules:
 
 > notebook → governed table → declarative pipeline → a question answered → a dashboard → a live app
 
+See **[ARCHITECTURE.md](ARCHITECTURE.md)** for the diagram of how it all fits together.
+
 ## Modules
 
 | # | Notebook | Mode | Produces |
