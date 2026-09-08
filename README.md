@@ -75,7 +75,13 @@ No internet or file upload required beyond the initial Git-folder clone.
 
 ## Status
 
-SQL for every module is validated on a live Free Edition workspace. Still needs a live
-dry-run before an event: the **Module 3 pipeline** (create + start) and the **Module 6 app**
-(deploy + warehouse resource binding). See the deck (`PhilanthrobricksBootcamp.dc.html`) for
-facilitator timings and speaker notes.
+Validated on a live Free Edition workspace:
+- **Git-folder clone → `00_setup`** loads the CSVs into `workspace.foodbank` (serverless job ran green;
+  ~523k meals, ~150k households across the seeded data).
+- Module 1, 2, 4 and 5 SQL all run clean.
+
+Still worth a live dry-run before an event:
+- **Module 3** — create the declarative pipeline from `03_pipeline_sdp` and start it (one pipeline/type on FE).
+- **Module 6** — deploy the app and bind the `sql-warehouse` resource.
+
+See the deck (`PhilanthrobricksBootcamp.dc.html`) for facilitator timings and speaker notes.
